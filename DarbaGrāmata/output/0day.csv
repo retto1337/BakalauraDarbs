@@ -1,0 +1,623 @@
+avots,id,nosaukums,url,diena,cves,tips
+0day,Suffering-From-1-0-XSS-Vulnerability,Suffering From 1.0 XSS Vulnerability,,,,xss
+0day,Wazzum-Dating-Software-Mullti-Vulnerability,Wazzum Dating Software Mullti Vulnerability,,,,
+0day,Nokia-Application-Installer-6-81-13-0-DLL-Hijacking-Exploit,Nokia Application Installer 6.81.13.0 DLL Hijacking Exploit,,,,
+0day,Borland-Delphi-7-Crash,Borland Delphi 7 Crash,,,,dos
+0day,Joomla-Component-com-jeeventcalendar-Local-File-Inclusion,Joomla Component com_jeeventcalendar Local File Inclusion,,,,lfi
+0day,MySql-version-5-2-Change-password-length-shell,MySql version 5.2 Change password length shell,,,,
+0day,Winamp-v5-541-DLL-Hijacking-Exploit,Winamp v5.541 DLL Hijacking Exploit,,,,
+0day,e2eSoft-VCam-DLL-Hijacking-Exploit-ippopencv100-dll-ippcv-6-1-dl,e2eSoft VCam DLL Hijacking Exploit (ippopencv100.dll & ippcv-6.1.dll),,,,
+0day,dopdf-7-DLL-Hijacking-Exploit-dwmapi-dll-,dopdf-7 DLL Hijacking Exploit (dwmapi.dll),,,,
+0day,WinMount-3-4-1020-Final-Commandline-Vulnerability,WinMount 3.4.1020 Final Commandline Vulnerability,,,,
+0day,CobraScripts-SQL-Injection-Vulnerability,CobraScripts SQL Injection Vulnerability,,,,sqli
+0day,Foxit-Reader-4-1-1-Stack-Overflow-Exploit,Foxit Reader 4.1.1 Stack Overflow Exploit,,,,overflow
+0day,Qtweb-Browser-v3-5-DLL-Hijacking-Exploit,Qtweb Browser v3.5 DLL Hijacking Exploit,,,,
+0day,PHP-Fusion-Teams-Structure-Infusion-Addon-SQL-Injection-Vulnerab,PHP-Fusion Teams Structure Infusion Addon SQL Injection Vulnerability,,,,sqli
+0day,CakePHP-1-3-5-1-2-8-unserialize-Vulnerability,CakePHP <= 1.3.5 / 1.2.8 unserialize() Vulnerability,,,,
+0day,Allomani-Audio-and-Video-Library-2-7-0-XSRF-Vulnerability-Add-Ad,Allomani Audio and Video Library 2.7.0 XSRF Vulnerability (Add Admin),,,,
+0day,HP-Data-Protector-8-x-Remote-Command-Execution-Exploit,HP Data Protector 8.x - Remote Command Execution Exploit,,,CVE-2014-2623,
+0day,TypeSetter-5-1-Cross-Site-Request-Forgery-Vulnerability,TypeSetter 5.1 Cross Site Request Forgery Vulnerability,,,,csrf
+0day,Sticky-Notes-Widget-Version-3-0-6-Denial-of-Service-Exploit,Sticky Notes Widget Version 3.0.6 - Denial of Service Exploit,,,,dos
+0day,NCH-Express-Invoice-Clear-Text-Password-Storage-and-Account-Take,NCH Express Invoice - Clear Text Password Storage and Account Takeover Exploit,,,CVE-2020-11560,
+0day,Ultra-Mini-HTTPd-1-21-Denial-Of-Service-Exploit,Ultra Mini HTTPd 1.21 Denial Of Service Exploit,,2024-01-02 00:00:00+00:00,,dos
+0day,FTPDMIN-0-96-Denial-Of-Service-Exploit,FTPDMIN 0.96 Denial Of Service Exploit,,2024-01-02 00:00:00+00:00,,dos
+0day,Apache-2-4-55-mod-proxy-HTTP-Request-Smuggling-Exploit,Apache 2.4.55 mod_proxy HTTP Request Smuggling Exploit,,2024-01-02 00:00:00+00:00,CVE-2023-25690,
+0day,WebCalendar-1-3-0-Cross-Site-Scripting-Vulnerability,WebCalendar 1.3.0 Cross Site Scripting Vulnerability,,2024-01-03 00:00:00+00:00,,xss
+0day,CMSMS-2-2-19-Arbitrary-File-Upload-Vulnerability,CMSMS 2.2.19 Arbitrary File Upload Vulnerability,,2024-01-03 00:00:00+00:00,,
+0day,minaliC-2-0-0-Denial-Of-Service-Exploit,minaliC 2.0.0 Denial Of Service Exploit,,2024-01-04 00:00:00+00:00,,dos
+0day,Easy-File-Sharing-FTP-Server-2-0-Denial-Of-Service-Exploit,Easy File Sharing FTP Server 2.0 Denial Of Service Exploit,,2024-01-04 00:00:00+00:00,,dos
+0day,iGalerie-3-0-22-Cross-Site-Scripting-Vulnerability,iGalerie 3.0.22 Cross Site Scripting Vulnerability,,2024-01-08 00:00:00+00:00,,xss
+0day,Form-Tools-3-1-1-Cross-Site-Scripting-Vulnerability,Form Tools 3.1.1 Cross Site Scripting Vulnerability,,2024-01-08 00:00:00+00:00,,xss
+0day,PluXml-Blog-5-8-9-Remote-Code-Execution-Vulnerability,PluXml Blog 5.8.9 Remote Code Execution Vulnerability,,2024-01-08 00:00:00+00:00,,rce
+0day,Linux-6-4-io-uring-Use-After-Free-Exploit,Linux 6.4 io_uring Use-After-Free Exploit,,2024-01-08 00:00:00+00:00,,
+0day,Linux-io-uring-io-uaddr-map-Dangerous-Multi-Page-Handling-Exploi,Linux io_uring __io_uaddr_map() Dangerous Multi-Page Handling Exploit,,2024-01-08 00:00:00+00:00,CVE-2023-6560,
+0day,Gom-Player-2-3-92-5362-Buffer-Overflow-Exploit,Gom Player 2.3.92.5362 Buffer Overflow Exploit,,2024-01-08 00:00:00+00:00,,overflow
+0day,Gom-Player-2-3-92-5362-DLL-Hijacking-Vulnerability,Gom Player 2.3.92.5362 DLL Hijacking Vulnerability,,2024-01-08 00:00:00+00:00,,
+0day,FreeSWITCH-Denial-Of-Service-Exploit,FreeSWITCH Denial Of Service Exploit,,2024-01-08 00:00:00+00:00,CVE-2023-51443,dos
+0day,Femitter-FTP-Server-1-03-Denial-Of-Service-Exploit,Femitter FTP Server 1.03 Denial Of Service Exploit,,2024-01-08 00:00:00+00:00,,dos
+0day,File-Sharing-Wizard-1-5-0-Denial-Of-Service-Exploit,File Sharing Wizard 1.5.0 Denial Of Service Exploit,,2024-01-08 00:00:00+00:00,,dos
+0day,httpdx-1-5-4-Denial-Of-Service-Exploit,httpdx 1.5.4 Denial Of Service Exploit,,2024-01-08 00:00:00+00:00,,dos
+0day,Themebleed-Windows-11-Themes-Arbitrary-Code-Execution-Exploit,Themebleed Windows 11 Themes Arbitrary Code Execution Exploit,,2024-01-08 00:00:00+00:00,CVE-2023-38146,rce
+0day,Intrasrv-Simple-Web-Server-1-0-Denial-Of-Service-Exploit,Intrasrv Simple Web Server 1.0 Denial Of Service Exploit,,2024-01-09 00:00:00+00:00,,dos
+0day,Microsoft-SQL-Server-db-ddladmin-Privilege-Escalation-Vulnerabil,Microsoft SQL Server db_ddladmin Privilege Escalation Vulnerability,,2024-01-09 00:00:00+00:00,,priv_esc
+0day,AdvantechWeb-SCADA-9-1-5U-SQL-Injection-Vulnerability,AdvantechWeb / SCADA 9.1.5U SQL Injection Vulnerability,,2024-01-09 00:00:00+00:00,,sqli
+0day,liveSite-2019-1-Remote-Code-Execution-Vulnerability,liveSite 2019.1 Remote Code Execution Vulnerability,,2024-01-09 00:00:00+00:00,,rce
+0day,cpio-2-13-Privilege-Escalation-Vulnerability,cpio 2.13 Privilege Escalation Vulnerability,,2024-01-09 00:00:00+00:00,,priv_esc
+0day,PSOProxy-0-5-Denial-Of-Service-Exploit,PSOProxy 0.5 Denial Of Service Exploit,,2024-01-11 00:00:00+00:00,,dos
+0day,Android-DeviceVersionFragment-java-Privilege-Escalation-Exploit,Android DeviceVersionFragment.java Privilege Escalation Exploit,,2024-01-11 00:00:00+00:00,CVE-2023-48418,priv_esc
+0day,SimpleWebServer-2-2-rc2-Denial-Of-Service-Exploit,SimpleWebServer 2.2-rc2 Denial Of Service Exploit,,2024-01-15 00:00:00+00:00,,dos
+0day,Quick-TFTP-Server-Pro-2-1-Denial-Of-Service-Exploit,Quick TFTP Server Pro 2.1 Denial Of Service Exploit,,2024-01-15 00:00:00+00:00,,dos
+0day,ProSSHD-1-2-20090726-Denial-Of-Service-Exploit,ProSSHD 1.2 20090726 Denial Of Service Exploit,,2024-01-15 00:00:00+00:00,,dos
+0day,freeSSHd-1-0-9-Denial-Of-Service-Exploit,freeSSHd 1.0.9 Denial Of Service Exploit,,2024-01-15 00:00:00+00:00,,dos
+0day,HaoKeKeJi-YiQiNiu-Server-Side-Request-Forgery-Vulnerability,HaoKeKeJi YiQiNiu Server Side Request Forgery Vulnerability,,2024-01-15 00:00:00+00:00,,
+0day,Xitami-2-5-Denial-Of-Service-Exploit,Xitami 2.5 Denial Of Service Exploit,,2024-01-15 00:00:00+00:00,,dos
+0day,Taokeyun-SQL-Injection-Vulnerability,Taokeyun SQL Injection Vulnerability,,2024-01-15 00:00:00+00:00,CVE-2024-0480,sqli
+0day,WordPress-RSVPMaker-9-3-2-SQL-Injection-Vulnerability,WordPress RSVPMaker 9.3.2 SQL Injection Vulnerability,,2024-01-15 00:00:00+00:00,CVE-2022-1768,sqli
+0day,Korenix-JetNet-Series-Unauthenticated-Access-Exploit,Korenix JetNet Series Unauthenticated Access Exploit,,2024-01-16 00:00:00+00:00,"CVE-2023-5347,CVE-2023-5376",
+0day,MailCarrier-2-51-Denial-Of-Service-Exploit,MailCarrier 2.51 Denial Of Service Exploit,,2024-01-16 00:00:00+00:00,,dos
+0day,LightFTP-1-1-Denial-Of-Service-Exploit,LightFTP 1.1 Denial Of Service Exploit,,2024-01-16 00:00:00+00:00,,dos
+0day,Easy-File-Sharing-FTP-3-6-Denial-Of-Service-Exploit,Easy File Sharing FTP 3.6 Denial Of Service Exploit,,2024-01-17 00:00:00+00:00,,dos
+0day,MiniWeb-HTTP-Server-0-8-1-Denial-Of-Service-Exploit,MiniWeb HTTP Server 0.8.1 Denial Of Service Exploit,,2024-01-21 00:00:00+00:00,,dos
+0day,Firefox-121-Chrome-120-Denial-Of-Service-Exploit,Firefox 121 / Chrome 120 Denial Of Service Exploit,,2024-01-21 00:00:00+00:00,,dos
+0day,SpyCamLizard-1-230-Denial-Of-Service-Exploit,SpyCamLizard 1.230 Denial Of Service Exploit,,2024-01-21 00:00:00+00:00,,dos
+0day,Linux-5-6-io-uring-Cred-Refcount-Overflow-Exploit,Linux 5.6 io_uring Cred Refcount Overflow Exploit,,2024-01-21 00:00:00+00:00,,
+0day,Ansible-Agent-Payload-Deployer-Exploit,Ansible Agent Payload Deployer Exploit,,2024-01-21 00:00:00+00:00,,
+0day,Lepton-CMS-7-0-0-Remote-Code-Execution-Vulnerability,Lepton CMS 7.0.0 Remote Code Execution Vulnerability,,2024-01-21 00:00:00+00:00,,rce
+0day,WordPress-Backup-Migration-1-3-7-Remote-Command-Execution-Exploi,WordPress Backup Migration 1.3.7 Remote Command Execution Exploit,,2024-01-21 00:00:00+00:00,CVE-2023-6553,
+0day,Apache-Commons-Text-1-9-Remote-Code-Execution-Exploit,Apache Commons Text 1.9 Remote Code Execution Exploit,,2024-01-21 00:00:00+00:00,CVE-2022-42889,rce
+0day,ProSysInfo-TFTP-Server-TFTPDWIN-0-4-2-Denial-Of-Service-Exploit,ProSysInfo TFTP Server TFTPDWIN 0.4.2 Denial Of Service Exploit,,2024-01-22 00:00:00+00:00,,dos
+0day,Golden-FTP-Server-2-02b-Denial-Of-Service-Exploit,Golden FTP Server 2.02b Denial Of Service Exploit,,2024-01-22 00:00:00+00:00,,dos
+0day,EzServer-6-4-017-Denial-Of-Service-Exploit,EzServer 6.4.017 Denial Of Service Exploit,,2024-01-22 00:00:00+00:00,,dos
+0day,xbtitFM-4-1-18-SQL-Injection-Shell-Upload-Traversal-Vulnerabilit,xbtitFM 4.1.18 SQL Injection / Shell Upload / Traversal Vulnerabilities,,2024-01-22 00:00:00+00:00,,sqli
+0day,Traceroute-2-1-2-Privilege-Escalation-Vulnerability,Traceroute 2.1.2 Privilege Escalation Vulnerability,,2024-01-22 00:00:00+00:00,CVE-2023-46316,priv_esc
+0day,Ivanti-Connect-Secure-Unauthenticated-Remote-Code-Execution-Expl,Ivanti Connect Secure Unauthenticated Remote Code Execution Exploit,,2024-01-22 00:00:00+00:00,"CVE-2023-46805,CVE-2024-21887",rce
+0day,MajorDoMo-Command-Injection-Exploit,MajorDoMo Command Injection Exploit,,2024-01-22 00:00:00+00:00,CVE-2023-50917,
+0day,PRTG-Authenticated-Remote-Code-Execution-Exploit,PRTG Authenticated Remote Code Execution Exploit,,2024-01-24 00:00:00+00:00,CVE-2023-32781,rce
+0day,Saltstack-Minion-Payload-Deployer-Exploit,Saltstack Minion Payload Deployer Exploit,,2024-01-24 00:00:00+00:00,,
+0day,GL-iNet-Unauthenticated-Remote-Command-Execution-Exploit,GL.iNet Unauthenticated Remote Command Execution Exploit,,2024-01-24 00:00:00+00:00,"CVE-2023-50445,CVE-2023-50919",
+0day,7-Sticky-Notes-v1-9-OS-Command-Injection-Vulnerability,7 Sticky Notes v1.9 - OS Command Injection Vulnerability,,2024-01-29 00:00:00+00:00,,
+0day,Blood-Bank-Donor-Management-System-using-v2-2-Stored-XSS-Vulnera,Blood Bank & Donor Management System using v2.2 - Stored XSS Vulnerability,,2024-01-29 00:00:00+00:00,,xss
+0day,Bank-Locker-Management-System-SQL-Injection-Vulnerability,Bank Locker Management System - SQL Injection Vulnerability,,2024-01-29 00:00:00+00:00,,sqli
+0day,Typora-v1-7-4-OS-Command-Injection-Vulnerability,Typora v1.7.4 - OS Command Injection Vulnerability,,2024-01-29 00:00:00+00:00,,
+0day,Ricoh-Printer-Directory-and-File-Exposure-Exploit,Ricoh Printer - Directory and File Exposure Exploit,,2024-01-29 00:00:00+00:00,,
+0day,Reprise-License-Manager-15-1-Privilege-Escalation-File-Write-Vul,Reprise License Manager 15.1 Privilege Escalation / File Write Vulnerabilities,,2024-01-29 00:00:00+00:00,CVE-2023-43183,priv_esc
+0day,Jenkins-2-441-LTS-2-426-3-Arbitrary-File-Read-Exploit,Jenkins 2.441 / LTS 2.426.3 Arbitrary File Read Exploit,,2024-01-29 00:00:00+00:00,CVE-2024-23897,
+0day,CSZCMS-1-3-0-SQL-Injection-Vulnerability,CSZCMS 1.3.0 SQL Injection Vulnerability,,2024-01-29 00:00:00+00:00,,sqli
+0day,Chrome-121-Javascript-Fork-Malloc-Bomb-Exploit,Chrome 121 Javascript Fork Malloc Bomb Exploit,,2024-01-29 00:00:00+00:00,,
+0day,CloudLinux-CageFS-7-0-8-2-Insufficiently-Restricted-Proxy-Comman,CloudLinux CageFS 7.0.8-2 Insufficiently Restricted Proxy Command Vulnerability,,2024-01-29 00:00:00+00:00,CVE-2020-36772,
+0day,Atlassian-Confluence-SSTI-Injection-Exploit,Atlassian Confluence SSTI Injection Exploit,,2024-01-29 00:00:00+00:00,CVE-2023-22527,
+0day,Vinchin-Backup-And-Recovery-7-2-setNetworkCardInfo-Command-Injec,Vinchin Backup And Recovery 7.2 setNetworkCardInfo Command Injection Vulnerability,,2024-01-29 00:00:00+00:00,CVE-2024-22900,
+0day,Vinchin-Backup-And-Recovery-7-2-syncNtpTime-Command-Injection-Vu,Vinchin Backup And Recovery 7.2 syncNtpTime Command Injection Vulnerability,,2024-01-29 00:00:00+00:00,CVE-2024-22899,
+0day,Vinchin-Backup-And-Recovery-7-2-Default-Root-Credentials-Vulnera,Vinchin Backup And Recovery 7.2 Default Root Credentials Vulnerability,,2024-01-29 00:00:00+00:00,CVE-2024-22902,
+0day,Vinchin-Backup-And-Recovery-7-2-SystemHandler-class-php-Command-,Vinchin Backup And Recovery 7.2 SystemHandler.class.php Command Injection Vulnerability,,2024-01-29 00:00:00+00:00,CVE-2024-22903,
+0day,Grocy-4-0-2-CSRF-Vulnerability,Grocy <= 4.0.2 - CSRF Vulnerability,,2024-01-31 00:00:00+00:00,CVE-2023-42270,csrf
+0day,Proxmox-VE-TOTP-Brute-Force-Exploit,Proxmox VE - TOTP Brute Force Exploit,,2024-01-31 00:00:00+00:00,CVE-2023-43320,rce
+0day,XenForo-2-2-13-ArchiveImport-php-Zip-Slip-Vulnerability,XenForo 2.2.13 ArchiveImport.php Zip Slip Vulnerability,,2024-01-31 00:00:00+00:00,,
+0day,RoyalTSX-6-0-1-RTSZ-File-Handling-Heap-Memory-Corruption-PoC,RoyalTSX 6.0.1 - RTSZ File Handling Heap Memory Corruption PoC,,2024-01-31 00:00:00+00:00,,
+0day,TELSAT-marKoni-FM-Transmitter-1-9-5-Insecure-Access-Control-Vuln,TELSAT marKoni FM Transmitter 1.9.5 Insecure Access Control Vulnerability,,2024-01-31 00:00:00+00:00,,
+0day,TELSAT-marKoni-FM-Transmitter-1-9-5-Backdoor-Account-Vulnerabili,TELSAT marKoni FM Transmitter 1.9.5 Backdoor Account Vulnerability,,2024-01-31 00:00:00+00:00,,
+0day,TELSAT-marKoni-FM-Transmitter-1-9-5-Client-Side-Access-Control-B,TELSAT marKoni FM Transmitter 1.9.5 Client-Side Access Control Bypass Vulnerability,,2024-01-31 00:00:00+00:00,,
+0day,TELSAT-marKoni-FM-Transmitter-1-9-5-Root-Command-Injection-Explo,TELSAT marKoni FM Transmitter 1.9.5 Root Command Injection Exploit,,2024-01-31 00:00:00+00:00,,
+0day,glibc-syslog-Heap-Based-Buffer-Overflow-Exploit,glibc syslog() Heap-Based Buffer Overflow Exploit,,2024-01-31 00:00:00+00:00,CVE-2023-6246,overflow
+0day,glibc-qsort-Out-Of-Bounds-Read-Write-Exploit,glibc qsort() Out-Of-Bounds Read / Write Exploit,,2024-01-31 00:00:00+00:00,CVE-2023-6246,
+0day,Mirth-Connect-4-4-0-Remote-Command-Execution-Exploit,Mirth Connect 4.4.0 Remote Command Execution Exploit,,2024-01-31 00:00:00+00:00,"CVE-2023-37679,CVE-2023-43208",
+0day,Apache-Tomcat-8-5-63-9-0-43-HTTP-Response-Smuggling-Vulnerabilit,Apache Tomcat 8.5.63 / 9.0.43 HTTP Response Smuggling Vulnerability,,2024-02-01 00:00:00+00:00,CVE-2024-21733,
+0day,runc-1-1-11-File-Descriptor-Leak-Privilege-Escalation-Exploit,runc 1.1.11 File Descriptor Leak Privilege Escalation Exploit,,2024-02-05 00:00:00+00:00,CVE-2024-21626,priv_esc
+0day,SISQUAL-WFM-7-1-319-103-Host-Header-Injection-Vulnerability,SISQUAL WFM 7.1.319.103 Host Header Injection Vulnerability,,2024-02-05 00:00:00+00:00,CVE-2023-36085,
+0day,Milesight-UR5X-UR32L-UR32-UR35-UR41-Credential-Leakage-Exploit,Milesight UR5X / UR32L / UR32 / UR35 / UR41 Credential Leakage Exploit,,2024-02-05 00:00:00+00:00,CVE-2023-43261,info
+0day,Bank-Locker-Management-System-SQL-Injection-Vulnerability,Bank Locker Management System SQL Injection Vulnerability,,2024-02-05 00:00:00+00:00,,sqli
+0day,WebCatalog-48-4-Arbitrary-Protocol-Execution-Code-Execution-Vuln,WebCatalog 48.4 Arbitrary Protocol Execution / Code Execution Vulnerability,,2024-02-05 00:00:00+00:00,CVE-2023-42222,rce
+0day,mooSocial-3-1-8-Cross-Site-Scripting-XSS-on-User-Login-Page-Vuln,mooSocial 3.1.8 - Cross-Site Scripting (XSS) on User Login Page Vulnerability,,2024-02-05 00:00:00+00:00,CVE-2023-43325,xss
+0day,TP-Link-TL-WR740N-UnAuthenticated-Directory-Transversal-Vulnerab,TP-Link TL-WR740N - UnAuthenticated Directory Transversal Vulnerability,,2024-02-05 00:00:00+00:00,,
+0day,TP-LINK-TL-WR740N-Multiple-HTML-Injection-Vulnerability,TP-LINK TL-WR740N - Multiple HTML Injection Vulnerability,,2024-02-05 00:00:00+00:00,,
+0day,PCMan-FTP-Server-2-0-pwd-Remote-Buffer-Overflow-Vulnerability,PCMan FTP Server 2.0 - (pwd) Remote Buffer Overflow Vulnerability,,2024-02-05 00:00:00+00:00,,overflow
+0day,Juniper-SRX-Firewalls-EX-switches-PreAuth-Remote-Code-Execution-,Juniper SRX Firewalls&EX switches - PreAuth Remote Code Execution Exploit,,2024-02-05 00:00:00+00:00,,rce
+0day,GYM-MS-GYM-Management-System-Cross-Site-Scripting-Vulnerability,GYM MS - GYM Management System - Cross Site Scripting Vulnerability,,2024-02-05 00:00:00+00:00,,xss
+0day,Curfew-e-Pass-Management-System-1-0-FromDate-SQL-Injection-Vulne,Curfew e-Pass Management System 1.0 - FromDate SQL Injection Vulnerability,,2024-02-05 00:00:00+00:00,,sqli
+0day,Clinics-Patient-Management-System-1-0-Unauthenticated-Code-Execu,Clinics Patient Management System 1.0 - Unauthenticated Code Execution Vulnerability,,2024-02-05 00:00:00+00:00,,rce
+0day,MISP-2-4-171-Stored-XSS-Vulnerability,MISP 2.4.171 - Stored XSS Vulnerability,,2024-02-05 00:00:00+00:00,,xss
+0day,WhatsUp-Gold-2022-22-1-0-Build-39-XSS-Vulnerability,WhatsUp Gold 2022 (22.1.0 Build 39) - XSS Vulnerability,,2024-02-05 00:00:00+00:00,CVE-2023-35759,xss
+0day,Wordpress-simple-urls-Plugin-115-XSS-Vulnerability,Wordpress (simple urls) Plugin < 115 - XSS Vulnerability,,2024-02-05 00:00:00+00:00,CVE-2023-0099,xss
+0day,Cacti-pollers-php-SQL-Injection-Remote-Code-Execution-Exploit,Cacti pollers.php SQL Injection / Remote Code Execution Exploit,,2024-02-05 00:00:00+00:00,"CVE-2023-49084,CVE-2023-49085",rce
+0day,KiTTY-0-76-1-13-Command-Injection-Exploit,KiTTY 0.76.1.13 Command Injection Exploit,,2024-02-08 00:00:00+00:00,CVE-2024-23749,
+0day,Advanced-Page-Visit-Counter-1-0-Admin-Stored-Cross-Site-Scriptin,Advanced Page Visit Counter 1.0 - Admin+ Stored Cross-Site Scripting Vulnerability,,2024-02-11 00:00:00+00:00,,
+0day,Zyxel-zysh-Format-string-Exploit,Zyxel zysh - Format string Exploit,,2024-02-11 00:00:00+00:00,,
+0day,Elasticsearch-StackOverflow-DoS-Exploit,Elasticsearch - StackOverflow DoS Exploit,,2024-02-11 00:00:00+00:00,CVE-2023-31419,dos
+0day,Wordpress-Augmented-Reality-Remote-Code-Execution-Unauthenticate,Wordpress Augmented-Reality - Remote Code Execution Unauthenticated Exploit,,2024-02-11 00:00:00+00:00,,rce
+0day,Wordpress-Seotheme-Remote-Code-Execution-Unauthenticated-Exploit,Wordpress Seotheme - Remote Code Execution Unauthenticated Exploit,,2024-02-11 00:00:00+00:00,,rce
+0day,Rail-Pass-Management-System-1-0-Time-Based-SQL-Injection-Vulnera,Rail Pass Management System 1.0 - Time-Based SQL Injection Vulnerability,,2024-02-11 00:00:00+00:00,,sqli
+0day,Online-Nurse-Hiring-System-1-0-Time-Based-SQL-Injection-Vulnerab,Online Nurse Hiring System 1.0 - Time-Based SQL Injection Vulnerability,,2024-02-11 00:00:00+00:00,,sqli
+0day,LaborOfficeFree-19-10-MySQL-Root-Password-Calculator-Exploit,LaborOfficeFree 19.10 MySQL Root Password Calculator Exploit,,2024-02-12 00:00:00+00:00,CVE-2024-1346,
+0day,Windows-Defender-Detection-Mitigation-Bypass-Vulnerability,Windows Defender Detection Mitigation Bypass Vulnerability,,2024-02-12 00:00:00+00:00,,
+0day,WyreStorm-Apollo-VX20-Incorrect-Access-Control-Vulnerability,WyreStorm Apollo VX20 Incorrect Access Control Vulnerability,,2024-02-12 00:00:00+00:00,CVE-2024-25736,
+0day,WyreStorm-Apollo-VX20-Credential-Disclosure-Vulnerability,WyreStorm Apollo VX20 Credential Disclosure Vulnerability,,2024-02-12 00:00:00+00:00,CVE-2024-25735,
+0day,IBM-i-Access-Client-Solutions-Remote-Credential-Theft-Vulnerabil,IBM i Access Client Solutions Remote Credential Theft Vulnerability,,2024-02-12 00:00:00+00:00,CVE-2024-22318,
+0day,WyreStorm-Apollo-VX20-Account-Enumeration-Vulnerability,WyreStorm Apollo VX20 Account Enumeration Vulnerability,,2024-02-12 00:00:00+00:00,CVE-2024-25734,
+0day,Complaint-Management-System-2-0-SQL-Injection-Vulnerability,Complaint Management System 2.0 SQL Injection Vulnerability,,2024-02-12 00:00:00+00:00,,sqli
+0day,SCHLIX-2-2-8-1-Denial-Of-Service-Exploit,SCHLIX 2.2.8-1 Denial Of Service Exploit,,2024-02-12 00:00:00+00:00,,dos
+0day,Online-Nurse-Hiring-System-1-0-Time-Based-SQL-Injection-Vulnerab,Online Nurse Hiring System 1.0 - Time-Based SQL Injection Vulnerability,,2024-02-13 00:00:00+00:00,,sqli
+0day,VIMESA-VHF-FM-Transmitter-Blue-Plus-9-7-1-doreboot-Denial-Of-Ser,VIMESA VHF/FM Transmitter Blue Plus 9.7.1 (doreboot) - Denial Of Service Exploit,,2024-02-13 00:00:00+00:00,,dos
+0day,Splunk-9-0-4-Information-Disclosure-Vulnerability,Splunk 9.0.4 - Information Disclosure Vulnerability,,2024-02-13 00:00:00+00:00,,info
+0day,ManageEngine-ADManager-Plus-Build-7183-Recovery-Password-Disclos,ManageEngine ADManager Plus Build < 7183 - Recovery Password Disclosure Exploit,,2024-02-13 00:00:00+00:00,CVE-2023-31492,
+0day,Lost-and-Found-Information-System-v1-0-IDOR-leads-to-Account-Tak,Lost and Found Information System v1.0 - ( IDOR ) leads to Account Take over Exploit,,2024-02-13 00:00:00+00:00,CVE-2023-38965,
+0day,Adapt-CMS-3-0-3-Cross-Site-Scripting-Shell-Upload-Vulnerabilitie,Adapt CMS 3.0.3 Cross Site Scripting / Shell Upload Vulnerabilities,,2024-02-15 00:00:00+00:00,,xss
+0day,SISQUALWFM-7-1-319-103-Host-Header-Injection-Vulnerability,SISQUALWFM 7.1.319.103 - Host Header Injection Vulnerability,,2024-02-17 00:00:00+00:00,,
+0day,Metabase-0-46-6-Pre-Auth-Remote-Code-Execution-Exploit,Metabase 0.46.6 - Pre-Auth Remote Code Execution Exploit,,2024-02-17 00:00:00+00:00,CVE-2023-38646,rce
+0day,DS-Wireless-Communication-Remote-Code-Execution-Exploit,DS Wireless Communication - Remote Code Execution Exploit,,2024-02-17 00:00:00+00:00,CVE-2023-45887,rce
+0day,phpFox-4-8-13-redirect-PHP-Object-Injection-Exploit,phpFox < 4.8.13 - (redirect) PHP Object Injection Exploit,,2024-02-19 00:00:00+00:00,,
+0day,XAMPP-Buffer-Overflow-Exploit,XAMPP - Buffer Overflow Exploit,,2024-02-19 00:00:00+00:00,,overflow
+0day,Microsoft-Windows-Defender-Bypass-Detection-Mitigation-Bypass-Vu,Microsoft Windows Defender Bypass - Detection Mitigation Bypass Vulnerability,,2024-02-19 00:00:00+00:00,,
+0day,Microsoft-Windows-Defender-VBScript-Detection-Bypass-Vulnerabili,Microsoft Windows Defender - VBScript Detection Bypass Vulnerability,,2024-02-19 00:00:00+00:00,,
+0day,Employee-Management-System-v1-email-SQL-Injection-Vulnerability,Employee Management System v1 - (email) SQL Injection Vulnerability,,2024-02-19 00:00:00+00:00,,sqli
+0day,SureMDM-On-premise-6-31-CAPTCHA-Bypass-User-Enumeration-Exploit,SureMDM On-premise < 6.31 - CAPTCHA Bypass User Enumeration Exploit,,2024-02-19 00:00:00+00:00,CVE-2023-3897,
+0day,JFrog-Artifactory-7-25-4-Blind-SQL-Injection-Exploit,JFrog Artifactory < 7.25.4 - Blind SQL Injection Exploit,,2024-02-19 00:00:00+00:00,,sqli
+0day,Wondercms-4-3-2-XSS-to-Remote-Code-Execute-Exploit,Wondercms 4.3.2 - XSS to Remote Code Execute Exploit,,2024-02-19 00:00:00+00:00,,xss
+0day,Petrol-Pump-Management-Software-1-0-Shell-Upload-Vulnerability,Petrol Pump Management Software 1.0 Shell Upload Vulnerability,,2024-02-20 00:00:00+00:00,,
+0day,Tourism-Management-System-2-0-Shell-Upload-Vulnerability,Tourism Management System 2.0 Shell Upload Vulnerability,,2024-02-20 00:00:00+00:00,,
+0day,Kafka-UI-0-7-1-Command-Injection-Exploit,Kafka UI 0.7.1 Command Injection Exploit,,2024-02-20 00:00:00+00:00,CVE-2023-52251,
+0day,OpenOLAT-18-1-5-Cross-Site-Scripting-Privilege-Escalation-Vulner,OpenOLAT 18.1.5 Cross Site Scripting / Privilege Escalation Vulnerabilities,,2024-02-21 00:00:00+00:00,"CVE-2024-25973,CVE-2024-25974",priv_esc
+0day,WEBIGniter-v28-7-23-Stored-Cross-Site-Scripting-Vulnerability,WEBIGniter v28.7.23 - Stored Cross Site Scripting Vulnerability,,2024-02-21 00:00:00+00:00,,xss
+0day,Ivanti-Connect-Secure-Unauthenticated-Remote-Code-Execution-Expl,Ivanti Connect Secure Unauthenticated Remote Code Execution Exploit,,2024-02-21 00:00:00+00:00,"CVE-2023-36661,CVE-2024-21887,CVE-2024-21893",rce
+0day,WordPress-6-4-3-Username-Disclosure-Vulnerability,WordPress 6.4.3 Username Disclosure Vulnerability,,2024-02-21 00:00:00+00:00,,
+0day,SitePad-1-8-2-Cross-Site-Scripting-Vulnerability,SitePad 1.8.2 Cross Site Scripting Vulnerability,,2024-02-22 00:00:00+00:00,,xss
+0day,Dotclear-2-29-Cross-Site-Scripting-Vulnerability,Dotclear 2.29 Cross Site Scripting Vulnerability,,2024-02-22 00:00:00+00:00,,xss
+0day,CMS-Made-Simple-2-2-19-Server-Side-Template-Injection-Vulnerabil,CMS Made Simple 2.2.19 Server-Side Template Injection Vulnerability,,2024-02-22 00:00:00+00:00,,
+0day,CMS-Made-Simple-2-2-19-Cross-Site-Scripting-Vulnerability,CMS Made Simple 2.2.19 Cross Site Scripting Vulnerability,,2024-02-22 00:00:00+00:00,,xss
+0day,CMS-Made-Simple-2-2-19-Remote-Code-Execution-Vulnerability,CMS Made Simple 2.2.19 Remote Code Execution Vulnerability,,2024-02-22 00:00:00+00:00,,rce
+0day,QNAP-QTS-QuTS-Hero-Unauthenticated-Remote-Code-Execution-Exploit,QNAP QTS / QuTS Hero Unauthenticated Remote Code Execution Exploit,,2024-02-22 00:00:00+00:00,CVE-2023-47218,rce
+0day,Tosibox-Key-Service-3-3-0-Local-Privilege-Escalation-Unquoted-Se,Tosibox Key Service 3.3.0 Local Privilege Escalation / Unquoted Service Path Vulnerabilities,,2024-02-24 00:00:00+00:00,,priv_esc
+0day,Simple-Inventory-Management-System-v1-0-email-SQL-Injection-Vuln,Simple Inventory Management System v1.0 - (email) SQL Injection Vulnerability,,2024-02-26 00:00:00+00:00,,sqli
+0day,comments-like-dislike-1-2-0-Authenticated-Subscriber-Plugin-Sett,comments-like-dislike < 1.2.0 - Authenticated (Subscriber+) Plugin Setting Reset Exploit,,2024-02-26 00:00:00+00:00,CVE-2023-3244,
+0day,taskhub-2-8-7-SQL-Injection-Vulnerability,taskhub 2.8.7 - SQL Injection Vulnerability,,2024-02-26 00:00:00+00:00,CVE-2023-4987,sqli
+0day,Online-Shopping-System-Advanced-Sql-Injection-Vulnerability,Online Shopping System Advanced - Sql Injection Vulnerability,,2024-02-26 00:00:00+00:00,,sqli
+0day,Flashcard-Quiz-App-v1-0-card-SQL-Injection-Vulnerability,Flashcard Quiz App v1.0 - (card) SQL Injection Vulnerability,,2024-02-26 00:00:00+00:00,,sqli
+0day,FAQ-Management-System-v1-0-faq-SQL-Injection-Vulnerability,FAQ Management System v1.0 - (faq) SQL Injection Vulnerability,,2024-02-26 00:00:00+00:00,,sqli
+0day,Dawa-pharma-1-0-2022-Multiple-SQL-Injection-Vulnerabilities,Dawa pharma 1.0-2022 - Multiple SQL Injection Vulnerabilities,,2024-02-27 00:00:00+00:00,,sqli
+0day,Zoo-Management-System-1-0-Unauthenticated-Remote-Code-Execute-Vu,Zoo Management System 1.0 - Unauthenticated Remote Code Execute Vulnerability,,2024-02-27 00:00:00+00:00,,
+0day,Moodle-4-3-Insecure-Direct-Object-Reference-Vulnerability,Moodle 4.3 - Insecure Direct Object Reference Vulnerability,,2024-02-27 00:00:00+00:00,,
+0day,Moodle-4-3-Reflected-XSS-Vulnerability,Moodle 4.3 - Reflected XSS Vulnerability,,2024-02-27 00:00:00+00:00,,xss
+0day,SuperStoreFinder-Multiple-Vulnerabilities,SuperStoreFinder - Multiple Vulnerabilities,,2024-02-27 00:00:00+00:00,,
+0day,Automatic-Systems-SOC-FL9600-FastLine-Directory-Transversal-Vuln,Automatic Systems SOC FL9600 FastLine - Directory Transversal Vulnerability,,2024-02-27 00:00:00+00:00,,
+0day,Automatic-Systems-SOC-FL9600-FastLine-Backdoor-Account-Vulnerabi,Automatic Systems SOC FL9600 FastLine - Backdoor Account Vulnerability,,2024-02-27 00:00:00+00:00,,
+0day,Ubuntu-22-04-perl2exe-V30-10C-Arbitrary-Code-Execution-Vulnerabi,Ubuntu 22.04 perl2exe < V30.10C - Arbitrary Code Execution Vulnerability,,2024-02-27 00:00:00+00:00,,rce
+0day,Wordpress-Canto-Plugin-3-0-5-Remote-File-Inclusion-and-Remote-Co,Wordpress Canto Plugin < 3.0.5 - Remote File Inclusion and Remote Code Execution Exploit,,2024-02-27 00:00:00+00:00,,rce
+0day,TEM-Opera-Plus-FM-Family-Transmitter-35-45-Remote-Code-Execution,TEM Opera Plus FM Family Transmitter 35.45 - Remote Code Execution Vulnerability,,2024-02-27 00:00:00+00:00,,rce
+0day,TEM-Opera-Plus-FM-Family-Transmitter-35-45-XSRF-Vulnerability,TEM Opera Plus FM Family Transmitter 35.45 - XSRF Vulnerability,,2024-02-27 00:00:00+00:00,,
+0day,Atlassian-Confluence-Data-Center-and-Server-Authentication-Bypas,Atlassian Confluence Data Center and Server - Authentication Bypass Exploit,,2024-02-27 00:00:00+00:00,CVE-2023-22515,
+0day,WordPress-Admin-Bar-And-Dashboard-Access-Control-1-28-XSS-Vulner,WordPress Admin Bar And Dashboard Access Control 1.28 XSS Vulnerability,,2024-02-28 00:00:00+00:00,CVE-2023-47184,xss
+0day,WordPress-WP-Rocket-2-10-3-Local-File-Inclusion-Vulnerability,WordPress WP Rocket < 2.10.3 - Local File Inclusion Vulnerability,,2024-02-28 00:00:00+00:00,,lfi
+0day,WordPress-WP-Fastest-Cache-1-2-2-SQL-Injection-Vulnerability,WordPress WP Fastest Cache 1.2.2 SQL Injection Vulnerability,,2024-02-28 00:00:00+00:00,CVE-2023-6063,sqli
+0day,Saflok-Key-Derication-Function-Exploit,Saflok - Key Derication Function Exploit,,2024-02-28 00:00:00+00:00,,
+0day,Blood-Bank-v1-0-Multiple-SQL-Injection-Vulnerability,Blood Bank v1.0 - Multiple SQL Injection Vulnerability,,2024-02-28 00:00:00+00:00,"CVE-2023-46014,CVE-2023-46017,CVE-2023-46018",sqli
+0day,WordPress-IDonate-Blood-Request-Management-System-1-8-1-Cross-Si,WordPress IDonate Blood Request Management System 1.8.1 Cross Site Scripting Vulnerability,,2024-03-02 00:00:00+00:00,,xss
+0day,BoidCMS-2-0-0-Command-Injection-Exploit,BoidCMS 2.0.0 Command Injection Exploit,,2024-03-02 00:00:00+00:00,CVE-2023-38836,
+0day,Petrol-Pump-Management-Software-v1-0-Address-Stored-Cross-Site-S,Petrol Pump Management Software v1.0 - (Address) Stored Cross Site Scripting Vulnerability,,2024-03-04 00:00:00+00:00,CVE-2024-27743,xss
+0day,Petrol-Pump-Management-Software-v-1-0-Stored-Cross-Site-Scriptin,Petrol Pump Management Software v.1.0 - Stored Cross Site Scripting via SVG file Vulnerability,,2024-03-04 00:00:00+00:00,CVE-2024-27744,xss
+0day,Petrol-Pump-Management-Software-v-1-0-SQL-Injection-Vulnerabilit,Petrol Pump Management Software v.1.0 - SQL Injection Vulnerability,,2024-03-04 00:00:00+00:00,CVE-2024-27746,sqli
+0day,Petrol-Pump-Management-Software-v1-0-Remote-Code-Execution-via-F,Petrol Pump Management Software v1.0 - Remote Code Execution via File Upload Vulnerability,,2024-03-04 00:00:00+00:00,CVE-2024-27747,rce
+0day,Real-Estate-Management-System-v1-0-Remote-Code-Execution-via-Fil,Real Estate Management System v1.0 - Remote Code Execution via File Upload Vulnerability,,2024-03-04 00:00:00+00:00,,rce
+0day,Simple-Student-Attendance-System-v1-0-Time-Based-Blind-SQL-Injec,Simple Student Attendance System v1.0 - Time Based Blind SQL Injection Vulnerability,,2024-03-04 00:00:00+00:00,,sqli
+0day,Simple-Student-Attendance-System-v1-0-Time-Based-Blind-Union-Bas,Simple Student Attendance System v1.0 Time Based Blind & Union Based SQL Injection Vulnerability,,2024-03-04 00:00:00+00:00,,sqli
+0day,Windows-PowerShell-Event-Log-Bypass-Single-Quote-Code-Execution-,Windows PowerShell - Event Log Bypass Single Quote Code Execution Vulnerability,,2024-03-04 00:00:00+00:00,,rce
+0day,AC-Repair-and-Services-System-v1-0-Multiple-SQL-Injection-Vulner,AC Repair and Services System v1.0 - Multiple SQL Injection Vulnerability,,2024-03-04 00:00:00+00:00,,sqli
+0day,Enrollment-System-v1-0-SQL-Injection-Exploit,Enrollment System v1.0 - SQL Injection Exploit,,2024-03-04 00:00:00+00:00,,sqli
+0day,TPC-110W-Missing-Authentication-for-Critical-Function-Exploit,TPC-110W - Missing Authentication for Critical Function Exploit,,2024-03-04 00:00:00+00:00,,
+0day,Magento-ver-2-4-6-XSLT-Server-Side-Injection-Vulnerability,Magento ver. 2.4.6 - XSLT Server Side Injection Vulnerability,,2024-03-04 00:00:00+00:00,,
+0day,Boss-Mini-1-4-0-local-file-inclusion-Exploit,Boss Mini 1.4.0 - local file inclusion Exploit,,2024-03-04 00:00:00+00:00,CVE-2023-3643,lfi
+0day,A-PDF-All-to-MP3-Converter-2-0-0-DEP-Bypass-via-HeapCreate-HeapA,A-PDF All to MP3 Converter 2.0.0 - DEP Bypass via HeapCreate + HeapAlloc Exploit,,2024-03-04 00:00:00+00:00,,
+0day,Maxima-Max-Pro-Power-BLE-Traffic-Replay-Unauthenticated-Vulnerab,Maxima Max Pro Power - BLE Traffic Replay (Unauthenticated) Vulnerability,,2024-03-04 00:00:00+00:00,CVE-2023-46916,
+0day,GL-iNet-AR300M-v4-3-7-Arbitrary-File-Read-Exploit,GL.iNet AR300M v4.3.7 Arbitrary File Read Exploit,,2024-03-04 00:00:00+00:00,CVE-2023-46455,
+0day,GL-iNet-AR300M-v4-3-7-Remote-Code-Execution-Exploit,GL.iNet AR300M v4.3.7 Remote Code Execution Exploit,,2024-03-04 00:00:00+00:00,CVE-2023-46454,rce
+0day,GL-iNet-AR300M-v3-216-Remote-Code-Execution-Exploit,GL.iNet AR300M v3.216 Remote Code Execution Exploit,,2024-03-04 00:00:00+00:00,CVE-2023-46456,rce
+0day,TitanNit-Web-Control-2-01-Atemio-7600-Root-Remote-Code-Execution,TitanNit Web Control 2.01 / Atemio 7600 - Root Remote Code Execution Exploit,,2024-03-04 00:00:00+00:00,,rce
+0day,R-Radio-Network-FM-Transmitter-1-07-system-cgi-Password-Disclosu,R Radio Network FM Transmitter 1.07 system.cgi - Password Disclosure Vulnerability,,2024-03-04 00:00:00+00:00,,
+0day,Easywall-0-3-1-Authenticated-Remote-Command-Execution-Exploit,Easywall 0.3.1 - Authenticated Remote Command Execution Exploit,,2024-03-04 00:00:00+00:00,,
+0day,Wallos-Shell-Upload-Vulnerability,Wallos Shell Upload Vulnerability,,2024-03-05 00:00:00+00:00,,
+0day,XAMPP-5-6-40-SQL-Injection-Vulnerability,XAMPP 5.6.40 SQL Injection Vulnerability,,2024-03-05 00:00:00+00:00,,sqli
+0day,Solar-Log-200-PM-3-6-0-Build-99-15-10-2019-Stored-XSS-Vulnerabil,Solar-Log 200 PM+ 3.6.0 Build 99 - 15.10.2019 - Stored XSS Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2023-46344,xss
+0day,Wordpress-Neontext-Plugin-Stored-XSS-Vulnerability,Wordpress Neontext Plugin - Stored XSS Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2023-5817,xss
+0day,kk-Star-Ratings-5-4-6-Rating-Tampering-via-Race-Condition-Vulner,kk Star Ratings < 5.4.6 - Rating Tampering via Race Condition Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2023-4642,
+0day,TP-Link-JetStream-Smart-Switch-TL-SG2210P-5-0-Build-20211201-Pri,TP-Link JetStream Smart Switch TL-SG2210P 5.0 Build 20211201 Privilege Escalation Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2023-43318,priv_esc
+0day,Multilaser-RE160-Cookie-Manipulation-Access-Bypass-Vulnerability,Multilaser RE160 Cookie Manipulation Access Bypass Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2023-38946,
+0day,Multilaser-RE160V-RE160-URL-Manipulation-Access-Bypass-Vulnerabi,Multilaser RE160V / RE160 URL Manipulation Access Bypass Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2023-38945,
+0day,Multilaser-RE160V-Header-Manipulation-Access-Bypass-Vulnerabilit,Multilaser RE160V Header Manipulation Access Bypass Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2023-38944,
+0day,RAD-SecFlow-2-Path-Traversal-Vulnerability,RAD SecFlow-2 Path Traversal Vulnerability,,2024-03-05 00:00:00+00:00,CVE-2019-6268,
+0day,Saflok-System-6000-Key-Derivation-Exploit,Saflok System 6000 Key Derivation Exploit,,2024-03-05 00:00:00+00:00,,
+0day,Customer-Support-System-1-0-Multiple-SQL-injection-Vulnerability,Customer Support System 1.0 - Multiple SQL injection Vulnerability,,2024-03-06 00:00:00+00:00,CVE-2023-50071,sqli
+0day,CSZ-CMS-Version-1-3-0-Authenticated-Remote-Command-Execution-Exp,CSZ CMS Version 1.3.0 - Authenticated Remote Command Execution Exploit,,2024-03-06 00:00:00+00:00,,
+0day,elFinder-Web-file-manager-Version-2-1-53-Remote-Command-Executio,elFinder Web file manager Version - 2.1.53 Remote Command Execution Vulnerability,,2024-03-06 00:00:00+00:00,,lfi
+0day,Artica-Proxy-4-50-Loopback-Service-Disclosure-Vulnerability,Artica Proxy 4.50 Loopback Service Disclosure Vulnerability,,2024-03-06 00:00:00+00:00,CVE-2024-2056,
+0day,Artica-Proxy-4-40-4-50-Authentication-Bypass-Privilege-Escalatio,Artica Proxy 4.40 / 4.50 Authentication Bypass / Privilege Escalation Vulnerability,,2024-03-06 00:00:00+00:00,CVE-2024-2055,priv_esc
+0day,Artica-Proxy-4-50-Unauthenticated-PHP-Deserialization-Vulnerabil,Artica Proxy 4.50 Unauthenticated PHP Deserialization Vulnerability,,2024-03-06 00:00:00+00:00,CVE-2024-2054,
+0day,Artica-Proxy-4-40-4-50-Local-File-Inclusion-Traversal-Vulnerabil,Artica Proxy 4.40 / 4.50 Local File Inclusion / Traversal Vulnerability,,2024-03-06 00:00:00+00:00,CVE-2024-2053,lfi
+0day,Customer-Support-System-1-0-SQL-Injection-Vulnerability,Customer Support System 1.0 SQL Injection Vulnerability,,2024-03-06 00:00:00+00:00,CVE-2023-50071,sqli
+0day,GL-iNet-Router-Authentication-Bypass-Exploit,GL.iNet - Router Authentication Bypass Exploit,,2024-03-06 00:00:00+00:00,,
+0day,TP-Link-TL-WR740N-Buffer-Overflow-DOS-Exploit,TP-Link TL-WR740N - Buffer Overflow DOS Exploit,,2024-03-11 00:00:00+00:00,,overflow
+0day,Numbas-v7-3-Remote-Code-Execution-Exploit,Numbas < v7.3 - Remote Code Execution Exploit,,2024-03-11 00:00:00+00:00,CVE-2024-27612,rce
+0day,DataCube3-v1-0-Unrestricted-file-upload-Remote-Code-Execution-Ex,DataCube3 v1.0 - Unrestricted file upload Remote Code Execution Exploit,,2024-03-11 00:00:00+00:00,"CVE-2024-25832,CVE-2024-25830",rce
+0day,Ladder-v0-0-21-Server-side-request-forgery-Vulnerability,Ladder v0.0.21 - Server-side request forgery Vulnerability,,2024-03-11 00:00:00+00:00,CVE-2024-27620,
+0day,Akaunting-3-1-3-Remote-Code-Execution-Exploit,Akaunting < 3.1.3 - Remote Code Execution Exploit,,2024-03-11 00:00:00+00:00,CVE-2024-22836,rce
+0day,WordPress-Hide-My-WP-6-2-9-Unauthenticated-SQL-injection-Vulnera,WordPress Hide My WP < 6.2.9 - Unauthenticated SQL injection Vulnerability,,2024-03-11 00:00:00+00:00,CVE-2022-4681,sqli
+0day,Hitachi-NAS-HNAS-System-Management-Unit-SMU-Backup-Restore-14-8-,Hitachi NAS (HNAS) System Management Unit (SMU) Backup & Restore < 14.8.7825.01 IDOR Exploit,,2024-03-11 00:00:00+00:00,CVE-2023-5808,
+0day,Microsoft-Windows-Defender-Trojan-Win32-Powessere-G-Detection-Mi,Microsoft Windows Defender / Trojan.Win32/Powessere.G - Detection Mitigation Bypass Vulnerability,,2024-03-11 00:00:00+00:00,,
+0day,WordPress-Duplicator-Plugin-1-5-7-1-Unauthenticated-Sensitive-Da,WordPress Duplicator Plugin < 1.5.7.1 - Unauthenticated Sensitive Data Exposure Account Takeover,,2024-03-11 00:00:00+00:00,CVE-2023-6114,
+0day,Adobe-ColdFusion-v-2018-15-and-earlier-and-2021-5-and-earlier-Ar,"Adobe ColdFusion v 2018,15 (and earlier) and 2021,5 and earlier - Arbitrary File Read Exploit",,2024-03-11 00:00:00+00:00,CVE-2023-26360,
+0day,Sitecore-Remote-Code-Execution-v8-2-Exploit,Sitecore - Remote Code Execution v8.2 Exploit,,2024-03-11 00:00:00+00:00,CVE-2023-35813,rce
+0day,Human-Resource-Management-System-1-0-employeeid-SQL-Injection-Vu,Human Resource Management System 1.0 - (employeeid) SQL Injection Vulnerability,,2024-03-12 00:00:00+00:00,,rce
+0day,OSGi-v3-8-3-18-Console-Remote-Code-Execute-Exploit,OSGi v3.8-3.18 Console - Remote Code Execute Exploit,,2024-03-12 00:00:00+00:00,,
+0day,OSGi-v3-7-2-and-below-Console-Remote-Code-Execute-Exploit,OSGi v3.7.2 (and below) Console - Remote Code Execute Exploit,,2024-03-12 00:00:00+00:00,,
+0day,Client-Details-System-1-0-SQL-Injection-Vulnerability,Client Details System 1.0 - SQL Injection Vulnerability,,2024-03-12 00:00:00+00:00,CVE-2023-7137,sqli
+0day,Cisco-Firepower-Management-Center-6-6-7-1-Authenticated-Remote-C,Cisco Firepower Management Center < 6.6.7.1 - Authenticated Remote Code Execute Exploit,,2024-03-12 00:00:00+00:00,CVE-2023-20048,
+0day,VMware-Cloud-Director-10-5-Bypass-identity-verification-Exploit,VMware Cloud Director 10.5 - Bypass identity verification Exploit,,2024-03-12 00:00:00+00:00,CVE-2023-34060,
+0day,SnipeIT-6-2-1-Stored-Cross-Site-Scripting-Vulnerability,SnipeIT 6.2.1 - Stored Cross Site Scripting Vulnerability,,2024-03-12 00:00:00+00:00,CVE-2023-5452,xss
+0day,NorthStar-C2-Agent-1-0-Cross-Site-Scripting-Remote-Command-Execu,NorthStar C2 Agent 1.0 Cross Site Scripting / Remote Command Execution Exploit,,2024-03-12 00:00:00+00:00,CVE-2024-28741,xss
+0day,JetBrains-TeamCity-2023-05-3-Remote-Code-Execution-Exploit,JetBrains TeamCity 2023.05.3 - Remote Code Execution Exploit,,2024-03-14 00:00:00+00:00,CVE-2023-42793,rce
+0day,Honeywell-PM43-P10-19-050004-Remote-Code-Execution-Exploit,Honeywell PM43 < P10.19.050004 - Remote Code Execution Exploit,,2024-03-14 00:00:00+00:00,CVE-2023-3710,rce
+0day,SolarView-Compact-6-00-Command-Injection-Exploit,SolarView Compact 6.00 - Command Injection Exploit,,2024-03-14 00:00:00+00:00,CVE-2023-23333,
+0day,Viessmann-Vitogate-300-2-1-3-0-Remote-Code-Execution-Exploit,Viessmann Vitogate 300 2.1.3.0 - Remote Code Execution Exploit,,2024-03-14 00:00:00+00:00,"CVE-2023-5702,CVE-2023-5222",rce
+0day,Ruijie-Switch-PSG-5124-26293-Remote-Code-Execution-Exploit,Ruijie Switch PSG-5124 26293 - Remote Code Execution Exploit,,2024-03-14 00:00:00+00:00,,rce
+0day,KiTTY-0-76-1-13-Start-Duplicated-Session-Hostname-Buffer-Overflo,KiTTY 0.76.1.13 - Start Duplicated Session Hostname Buffer Overflow Exploit,,2024-03-14 00:00:00+00:00,CVE-2024-25003,overflow
+0day,KiTTY-0-76-1-13-Start-Duplicated-Session-Username-Buffer-Overflo,KiTTY 0.76.1.13 - Start Duplicated Session Username Buffer Overflow Exploit,,2024-03-14 00:00:00+00:00,,overflow
+0day,KiTTY-0-76-1-13-Command-Injection-Exploit,KiTTY 0.76.1.13 - Command Injection Exploit,,2024-03-14 00:00:00+00:00,CVE-2024-23749,
+0day,GitLab-CE-EE-16-7-2-Password-Reset-Vulnerability,GitLab CE/EE < 16.7.2 - Password Reset Vulnerability,,2024-03-14 00:00:00+00:00,CVE-2023-7028,
+0day,StimulusReflex-3-5-0-Arbitrary-Code-Execution-Exploit,StimulusReflex 3.5.0 Arbitrary Code Execution Exploit,,2024-03-14 00:00:00+00:00,CVE-2024-28121,rce
+0day,Winter-CMS-1-2-3-Server-Side-Template-Injection-SSTI-Authenticat,Winter CMS 1.2.3 - Server-Side Template Injection (SSTI) (Authenticated) Vulnerability,,2024-03-18 00:00:00+00:00,,
+0day,LaborOfficeFree-19-10-MySQL-Root-Password-Calculator-Exploit,LaborOfficeFree 19.10 - MySQL Root Password Calculator Exploit,,2024-03-18 00:00:00+00:00,CVE-2024-1346,
+0day,Karaf-v4-4-3-Console-Remote-Code-Execution-Exploit,Karaf v4.4.3 Console - Remote Code Execution Exploit,,2024-03-18 00:00:00+00:00,,rce
+0day,Nokia-BMC-Log-Scanner-Remote-Code-Execution-Vulnerability,Nokia BMC Log Scanner - Remote Code Execution Vulnerability,,2024-03-18 00:00:00+00:00,CVE-2022-45899,rce
+0day,UPS-Network-Management-Card-4-Path-Traversal-Vulnerability,UPS Network Management Card 4 - Path Traversal Vulnerability,,2024-03-18 00:00:00+00:00,,
+0day,vm2-Sandbox-Escape-Exploit,vm2 - Sandbox Escape Exploit,,2024-03-18 00:00:00+00:00,CVE-2023-37466,
+0day,WordPress-File-Upload-Plugin-4-23-3-Stored-XSS-Vulnerability,WordPress File Upload Plugin < 4.23.3 - Stored XSS Vulnerability,,2024-03-18 00:00:00+00:00,CVE-2023-4811,xss
+0day,ZoneMinder-Snapshots-1-37-33-Unauthenticated-Remote-Code-Executi,ZoneMinder Snapshots < 1.37.33 - Unauthenticated Remote Code Execution Exploit,,2024-03-18 00:00:00+00:00,CVE-2023-26035,rce
+0day,WEBIGniter-v28-7-23-Stored-XSS-Vulnerability,WEBIGniter v28.7.23 - Stored XSS Vulnerability,,2024-03-18 00:00:00+00:00,,xss
+0day,Gibbon-LMS-v26-0-00-Authenticated-Remote-Code-Execution-Exploit,Gibbon LMS < v26.0.00 - Authenticated Remote Code Execution Exploit,,2024-03-18 00:00:00+00:00,CVE-2024-24725,rce
+0day,Atlassian-Confluence-8-5-3-Remote-Code-Execution-Exploit,Atlassian Confluence < 8.5.3 - Remote Code Execution Exploit,,2024-03-18 00:00:00+00:00,CVE-2023-22527,rce
+0day,Backdrop-CMS-1-23-0-Stored-XSS-Vulnerability,Backdrop CMS 1.23.0 - Stored XSS Vulnerability,,2024-03-18 00:00:00+00:00,,xss
+0day,Quick-CMS-6-7-SQL-Injection-Login-Bypass-Vulnerability,Quick.CMS 6.7 - SQL Injection Login Bypass Vulnerability,,2024-03-18 00:00:00+00:00,,sqli
+0day,Tramyardg-Autoexpress-1-3-0-Cross-Site-Scripting-Vulnerability,Tramyardg Autoexpress 1.3.0 Cross Site Scripting Vulnerability,,2024-03-20 00:00:00+00:00,CVE-2023-48903,xss
+0day,Tramyardg-Autoexpress-1-3-0-SQL-Injection-Vulnerability,Tramyardg Autoexpress 1.3.0 SQL Injection Vulnerability,,2024-03-20 00:00:00+00:00,CVE-2023-48901,sqli
+0day,Tramyardg-Autoexpress-1-3-0-Authentication-Bypass-Vulnerability,Tramyardg Autoexpress 1.3.0 Authentication Bypass Vulnerability,,2024-03-20 00:00:00+00:00,CVE-2023-48902,
+0day,Employee-Management-System-1-0-admin-id-SQL-injection-Vulnerabil,Employee Management System 1.0 - (admin_id) SQL injection Vulnerability,,2024-03-20 00:00:00+00:00,CVE-2024-28595,sqli
+0day,Hitachi-NAS-SMU-14-8-7825-Information-Disclosure-Vulnerability,Hitachi NAS SMU 14.8.7825 Information Disclosure Vulnerability,,2024-03-20 00:00:00+00:00,CVE-2023-6538,info
+0day,Simple-Task-List-1-0-status-SQL-injection-Vulnerability,Simple Task List 1.0 - (status) SQL injection Vulnerability,,2024-03-20 00:00:00+00:00,CVE-2023-46023,sqli
+0day,Teacher-Subject-Allocation-Management-System-1-0-searchdata-SQL-,Teacher Subject Allocation Management System 1.0 - (searchdata) SQL injection Vulnerability,,2024-03-20 00:00:00+00:00,CVE-2023-46024,sqli
+0day,Lektor-Static-CMS-3-3-10-Arbitrary-File-Upload-Remote-Code-Execu,Lektor Static CMS 3.3.10 Arbitrary File Upload / Remote Code Execution Vulnerabilities,,2024-03-20 00:00:00+00:00,,rce
+0day,Craft-CMS-4-4-14-Unauthenticated-Remote-Code-Execution-Exploit,Craft CMS 4.4.14 - Unauthenticated Remote Code Execution Exploit,,2024-03-27 00:00:00+00:00,CVE-2023-41892,rce
+0day,SPA-CART-CMS-Stored-XSS-Vulnerability,SPA-CART CMS - Stored XSS Vulnerability,,2024-03-27 00:00:00+00:00,,xss
+0day,Insurance-Management-System-PHP-and-MySQL-1-0-Multiple-Stored-XS,Insurance Management System PHP and MySQL 1.0 - Multiple Stored XSS Vulnerabilities,,2024-03-27 00:00:00+00:00,,xss
+0day,MobileShop-master-v1-0-SQL-Injection-Vulnerability,MobileShop master v1.0 - SQL Injection Vulnerability,,2024-03-27 00:00:00+00:00,,sqli
+0day,LBT-T300-mini1-Remote-Buffer-Overflow-Exploit,LBT-T300-mini1 - Remote Buffer Overflow Exploit,,2024-03-27 00:00:00+00:00,,overflow
+0day,Nagios-XI-Version-2024R1-01-SQL-Injection-Exploit,Nagios XI Version 2024R1.01 - SQL Injection Exploit,,2024-03-27 00:00:00+00:00,,sqli
+0day,LimeSurvey-Community-5-3-32-Stored-XSS-Vulnerability,LimeSurvey Community 5.3.32 - Stored XSS Vulnerability,,2024-03-27 00:00:00+00:00,CVE-2024-24506,xss
+0day,Artica-Proxy-Unauthenticated-PHP-Deserialization-Exploit,Artica Proxy Unauthenticated PHP Deserialization Exploit,,2024-03-27 00:00:00+00:00,CVE-2024-2054,
+0day,Sharepoint-Dynamic-Proxy-Generator-Remote-Command-Execution-Expl,Sharepoint Dynamic Proxy Generator Remote Command Execution Exploit,,2024-03-27 00:00:00+00:00,"CVE-2023-24955,CVE-2023-29357",
+0day,WordPress-Bricks-Builder-Theme-1-9-6-Remote-Code-Execution-Explo,WordPress Bricks Builder Theme 1.9.6 Remote Code Execution Exploit,,2024-03-27 00:00:00+00:00,CVE-2024-25600,rce
+0day,OpenNMS-Horizon-31-0-7-Remote-Command-Execution-Exploit,OpenNMS Horizon 31.0.7 Remote Command Execution Exploit,,2024-03-27 00:00:00+00:00,"CVE-2023-0872,CVE-2023-40315",
+0day,Asterisk-AMI-Partial-File-Content-Path-Disclosure-Authenticated-,Asterisk AMI - Partial File Content & Path Disclosure (Authenticated) Exploit,,2024-03-29 00:00:00+00:00,,
+0day,Workout-Journal-App-1-0-Stored-XSS-Vulnerability,Workout Journal App 1.0 - Stored XSS Vulnerability,,2024-03-29 00:00:00+00:00,CVE-2024-24050,xss
+0day,Purei-CMS-1-0-SQL-Injection-Vulnerability,Purei CMS 1.0 - SQL Injection Vulnerability,,2024-03-29 00:00:00+00:00,,sqli
+0day,NodeBB-v3-6-7-Broken-Access-Control-Vulnerability,NodeBB v3.6.7 Broken Access Control Vulnerability,,2024-03-29 00:00:00+00:00,,
+0day,RouterOS-6-40-5-6-44-and-6-48-1-6-49-10-Denial-of-Service-Exploi,RouterOS 6.40.5 - 6.44 and 6.48.1 - 6.49.10 - Denial of Service Exploit,,2024-03-29 00:00:00+00:00,CVE-2024-27686,dos
+0day,Siklu-MultiHaul-TG-series-2-0-0-unauthenticated-credential-discl,Siklu MultiHaul TG series < 2.0.0 - unauthenticated credential disclosure Exploit,,2024-03-29 00:00:00+00:00,,
+0day,Dell-Security-Management-Server-1-9-0-Local-Privilege-Escalation,Dell Security Management Server <1.9.0 - Local Privilege Escalation Exploit,,2024-03-29 00:00:00+00:00,CVE-2023-32479,priv_esc
+0day,WinRAR-version-6-22-Remote-Code-Execution-via-ZIP-archive-Exploi,WinRAR version 6.22 - Remote Code Execution via ZIP archive Exploit,,2024-03-29 00:00:00+00:00,,rce
+0day,FoF-Pretty-Mail-1-1-2-Server-Side-Template-Injection-Vulnerabili,FoF Pretty Mail 1.1.2 Server-Side Template Injection Vulnerability,,2024-04-01 00:00:00+00:00,,
+0day,FoF-Pretty-Mail-1-1-2-Local-File-Inclusion-Vulnerability,FoF Pretty Mail 1.1.2 Local File Inclusion Vulnerability,,2024-04-01 00:00:00+00:00,,lfi
+0day,FoF-Pretty-Mail-1-1-2-Command-Injection-Vulnerability,FoF Pretty Mail 1.1.2 Command Injection Vulnerability,,2024-04-01 00:00:00+00:00,,
+0day,Intel-PowerGadget-3-6-Local-Privilege-Escalation,Intel PowerGadget 3.6 Local Privilege Escalation,,2024-04-01 00:00:00+00:00,,priv_esc
+0day,WatchGuard-XTM-Firebox-Unauthenticated-Remote-Command-Execution-,WatchGuard XTM Firebox Unauthenticated Remote Command Execution Exploit,,2024-04-01 00:00:00+00:00,CVE-2022-26318,
+0day,TeamCity-Agent-XML-RPC-Command-Execution-Exploit,TeamCity Agent XML-RPC Command Execution Exploit,,2024-04-01 00:00:00+00:00,,
+0day,Gibbon-26-0-00-Server-Side-Template-Injection-Remote-Code-Execut,Gibbon 26.0.00 Server-Side Template Injection / Remote Code Execution Exploit,,2024-04-01 00:00:00+00:00,CVE-2024-24724,rce
+0day,BioTime-Directory-Traversal-Remote-Code-Execution-Exploit,BioTime Directory Traversal / Remote Code Execution Exploit,,2024-04-01 00:00:00+00:00,,rce
+0day,GL-iNet-MT6000-4-5-5-Arbitrary-File-Download-Exploit,GL.iNet MT6000 4.5.5 - Arbitrary File Download Exploit,,2024-04-02 00:00:00+00:00,CVE-2024-27356,
+0day,Simple-Backup-Plugin-2-7-10-Path-Traversal-Exploit,Simple Backup Plugin 2.7.10 - Path Traversal Exploit,,2024-04-02 00:00:00+00:00,,
+0day,Online-Hotel-Booking-In-PHP-1-0-Blind-SQL-Injection-Unauthentica,Online Hotel Booking In PHP 1.0 - Blind SQL Injection (Unauthenticated) Exploit,,2024-04-02 00:00:00+00:00,,sqli
+0day,ASUS-Control-Center-Express-01-06-15-Unquoted-Service-Path-Vulne,ASUS Control Center Express 01.06.15 - Unquoted Service Path Vulnerability,,2024-04-02 00:00:00+00:00,,
+0day,OpenCart-Core-4-0-2-3-search-SQL-injection-Vulnerability,OpenCart Core 4.0.2.3 - (search) SQL injection Vulnerability,,2024-04-02 00:00:00+00:00,,sqli
+0day,Rapid7-nexpose-nexposeconsole-Unquoted-Service-Path-Vulnerabilit,Rapid7 nexpose - (nexposeconsole) Unquoted Service Path Vulnerability,,2024-04-02 00:00:00+00:00,,
+0day,Petrol-Pump-Management-Software-v1-0-Remote-Code-Execution-Vulne,Petrol Pump Management Software v1.0 - Remote Code Execution Vulnerability,,2024-04-02 00:00:00+00:00,,rce
+0day,Hospital-Management-System-v1-0-Stored-Cross-Site-Scripting-Vuln,Hospital Management System v1.0 - Stored Cross Site Scripting Vulnerability,,2024-04-02 00:00:00+00:00,,xss
+0day,Microsoft-Windows-10-0-17763-5458-Kernel-Privilege-Escalation-Ex,Microsoft Windows 10.0.17763.5458 - Kernel Privilege Escalation Exploit,,2024-04-02 00:00:00+00:00,CVE-2024-21338,priv_esc
+0day,Employee-Management-System-1-0-txtfullname-and-txtphone-SQL-Inje,Employee Management System 1.0 - (txtfullname) and (txtphone) SQL Injection Vulnerability,,2024-04-02 00:00:00+00:00,CVE-2024-24499,sqli
+0day,Employee-Management-System-1-0-txtusername-and-txtpassword-SQL-I,Employee Management System 1.0 - (txtusername) and (txtpassword) SQL Injection Vulnerability,,2024-04-02 00:00:00+00:00,CVE-2024-24497,sqli
+0day,Daily-Habit-Tracker-1-0-Stored-Cross-Site-Scripting-Vulnerabilit,Daily Habit Tracker 1.0 - Stored Cross-Site Scripting Vulnerability,,2024-04-02 00:00:00+00:00,CVE-2024-24494,
+0day,Daily-Habit-Tracker-1-0-SQL-Injection-Vulnerability,Daily Habit Tracker 1.0 - SQL Injection Vulnerability,,2024-04-02 00:00:00+00:00,CVE-2024-24495,sqli
+0day,Daily-Habit-Tracker-1-0-Broken-Access-Control-Vulnerability,Daily Habit Tracker 1.0 - Broken Access Control Vulnerability,,2024-04-02 00:00:00+00:00,CVE-2024-24496,
+0day,Smart-School-6-4-1-SQL-Injection-Vulnerability,Smart School 6.4.1 - SQL Injection Vulnerability,,2024-04-02 00:00:00+00:00,CVE-2023-5495,sqli
+0day,ESET-NOD32-Antivirus-17-0-16-0-Unquoted-Service-Path-Vulnerabili,ESET NOD32 Antivirus 17.0.16.0 - Unquoted Service Path Vulnerability,,2024-04-03 00:00:00+00:00,,
+0day,Computer-Laboratory-Management-System-v1-0-Multiple-SQL-injectio,Computer Laboratory Management System v1.0 - Multiple SQL injection Vulnerability,,2024-04-03 00:00:00+00:00,,sqli
+0day,Wordpress-Alemha-Watermarker-1-3-1-Plugin-Stored-Cross-Site-Scri,Wordpress Alemha Watermarker 1.3.1 Plugin - Stored Cross-Site Scripting Vulnerability,,2024-04-03 00:00:00+00:00,,
+0day,Quick-CMS-v6-7-en-2023-password-SQL-injection-Vulnerability,Quick CMS v6.7 en 2023 - (password) SQL injection Vulnerability,,2024-04-03 00:00:00+00:00,,sqli
+0day,WordPress-Membership-For-WooCommerce-Shell-Upload-Vulnerability,WordPress Membership For WooCommerce Shell Upload Vulnerability,,2024-04-05 00:00:00+00:00,,rce
+0day,User-Registration-And-Login-And-User-Management-System-3-2-SQL-I,User Registration And Login And User Management System 3.2 SQL Injection Vulnerability,,2024-04-05 00:00:00+00:00,,sqli
+0day,Positron-Broadcast-Signal-Processor-TRA7005-1-20-Authentication-,Positron Broadcast Signal Processor TRA7005 1.20 Authentication Bypass Exploit,,2024-04-05 00:00:00+00:00,,
+0day,AnyDesk-7-0-15-Unquoted-Service-Path-Vulnerability,AnyDesk 7.0.15 - Unquoted Service Path Vulnerability,,2024-04-08 00:00:00+00:00,,
+0day,Wordpress-Travelscape-v1-0-3-Theme-Arbitrary-File-Upload-Exploit,Wordpress Travelscape v1.0.3 Theme - Arbitrary File Upload Exploit,,2024-04-08 00:00:00+00:00,,
+0day,Positron-Broadcast-Signal-Processor-TRA7005-v1-20-Authentication,Positron Broadcast Signal Processor TRA7005 v1.20 - Authentication Bypass Exploit,,2024-04-08 00:00:00+00:00,,
+0day,Human-Resource-Management-System-v1-0-Multiple-SQL-injection-Vul,Human Resource Management System v1.0 - Multiple SQL injection Vulnerability,,2024-04-08 00:00:00+00:00,,rce
+0day,UP-RESULT-0-1-2024-SQL-Injection-Vulnerability,UP-RESULT 0.1 2024 SQL Injection Vulnerability,,2024-04-08 00:00:00+00:00,,sqli
+0day,Best-Student-Result-Management-System-v1-0-Multiple-SQL-injectio,Best Student Result Management System v1.0 - Multiple SQL injection Vulnerability,,2024-04-08 00:00:00+00:00,,sqli
+0day,Daily-Expense-Manager-1-0-term-SQL-injection-Vulnerability,Daily Expense Manager 1.0 - (term) SQL injection Vulnerability,,2024-04-08 00:00:00+00:00,,sqli
+0day,Open-Source-Medicine-Ordering-System-v1-0-SQL-injection-Exploit,Open Source Medicine Ordering System v1.0 - SQL injection Exploit,,2024-04-08 00:00:00+00:00,,rce
+0day,Invision-Community-4-7-15-SQL-Injection-Vulnerability,Invision Community 4.7.15 SQL Injection Vulnerability,,2024-04-08 00:00:00+00:00,CVE-2024-30163,sqli
+0day,Invision-Community-4-7-16-Remote-Code-Execution-Vulnerability,Invision Community 4.7.16 Remote Code Execution Vulnerability,,2024-04-08 00:00:00+00:00,CVE-2024-30162,rce
+0day,Trimble-TM4Web-22-2-0-Privilege-Escalation-Access-Code-Disclosur,Trimble TM4Web 22.2.0 Privilege Escalation / Access Code Disclosure Vulnerability,,2024-04-11 00:00:00+00:00,CVE-2023-27195,priv_esc
+0day,GUnet-OpenEclass-E-learning-3-15-File-Upload-Command-Execution-E,GUnet OpenEclass E-learning 3.15 File Upload / Command Execution Exploit,,2024-04-11 00:00:00+00:00,CVE-2024-31777,
+0day,CHAOS-RAT-5-0-1-Remote-Command-Execution-Exploit,CHAOS RAT 5.0.1 Remote Command Execution Exploit,,2024-04-11 00:00:00+00:00,"CVE-2024-30850,CVE-2024-31839",
+0day,MinIO-2024-01-31T20-20-33Z-Privilege-Escalation-Exploit,MinIO < 2024-01-31T20-20-33Z - Privilege Escalation Exploit,,2024-04-12 00:00:00+00:00,CVE-2024-24747,priv_esc
+0day,Ray-OS-v2-6-3-Command-Injection-Exploit,Ray OS v2.6.3 - Command Injection Exploit,,2024-04-12 00:00:00+00:00,CVE-2023-6019,
+0day,Terratec-dmx-6fire-USB-Unquoted-Service-Path-Vulnerability,Terratec dmx_6fire USB - Unquoted Service Path Vulnerability,,2024-04-12 00:00:00+00:00,CVE-2024-31804,
+0day,HTMLy-Version-v2-9-6-Stored-XSS-Vulnerability,HTMLy Version v2.9.6 - Stored XSS Vulnerability,,2024-04-12 00:00:00+00:00,,xss
+0day,PopojiCMS-Version-2-0-1-Remote-Command-Execution-Vulnerability,PopojiCMS Version 2.0.1 - Remote Command Execution Vulnerability,,2024-04-12 00:00:00+00:00,,
+0day,PrusaSlicer-2-6-1-Arbitrary-code-execution-Vulnerability,PrusaSlicer 2.6.1 - Arbitrary code execution Vulnerability,,2024-04-12 00:00:00+00:00,CVE-2023-47268,rce
+0day,Moodle-3-10-1-Authenticated-Blind-Time-Based-SQL-Injection-sort-,Moodle 3.10.1 - Authenticated Blind Time-Based SQL Injection - (sort) parameter Exploit,,2024-04-12 00:00:00+00:00,CVE-2021-36393,sqli
+0day,WBCE-1-6-0-Unauthenticated-SQL-injection-Vulnerability,WBCE 1.6.0 - Unauthenticated SQL injection Vulnerability,,2024-04-12 00:00:00+00:00,CVE-2023-39796,sqli
+0day,Wordpress-WP-Video-Playlist-1-1-1-Plugin-Stored-Cross-Site-Scrip,Wordpress WP Video Playlist 1.1.1 Plugin - Stored Cross-Site Scripting Vulnerability,,2024-04-12 00:00:00+00:00,,
+0day,Wordpress-Playlist-for-Youtube-1-32-Plugin-Stored-Cross-Site-Scr,Wordpress Playlist for Youtube 1.32 Plugin - Stored Cross-Site Scripting Vulnerability,,2024-04-12 00:00:00+00:00,,
+0day,Open-eShop-2-7-0-Cross-Site-Scripting-Vulnerability,Open eShop 2.7.0 Cross Site Scripting Vulnerability,,2024-04-12 00:00:00+00:00,,xss
+0day,Concrete-CMS-9-2-7-Cross-Site-Scripting-Open-Redirect-Vulnerabil,Concrete CMS 9.2.7 Cross Site Scripting / Open Redirect Vulnerabilities,,2024-04-12 00:00:00+00:00,,xss
+0day,Gibbon-School-Platform-Authenticated-PHP-Deserialization-Exploit,Gibbon School Platform Authenticated PHP Deserialization Exploit,,2024-04-12 00:00:00+00:00,CVE-2024-24725,
+0day,Savsoft-Quiz-v6-0-Enterprise-Stored-XSS-Vulnerability,Savsoft Quiz v6.0 Enterprise - Stored XSS Vulnerability,,2024-04-15 00:00:00+00:00,,xss
+0day,Online-Fire-Reporting-System-OFRS-SQL-Injection-Authentication-B,Online Fire Reporting System OFRS - SQL Injection Authentication Bypass Exploit,,2024-04-15 00:00:00+00:00,,sqli
+0day,Stock-Management-System-v1-0-Unauthenticated-SQL-Injection-Explo,Stock Management System v1.0 - Unauthenticated SQL Injection Exploit,,2024-04-15 00:00:00+00:00,CVE-2023-51951,sqli
+0day,BMC-Compuware-iStrobe-Web-20-13-Pre-auth-Remote-Code-Execution-E,BMC Compuware iStrobe Web - 20.13 - Pre-auth Remote Code Execution Exploit,,2024-04-15 00:00:00+00:00,CVE-2023-40304,rce
+0day,djangorestframework-simplejwt-5-3-1-Information-Disclosure-Explo,djangorestframework-simplejwt 5.3.1 - Information Disclosure Exploit,,2024-04-15 00:00:00+00:00,CVE-2024-22513,info
+0day,OpenClinic-GA-5-247-01-Information-Disclosure-Vulnerability,OpenClinic GA 5.247.01 - Information Disclosure Vulnerability,,2024-04-15 00:00:00+00:00,CVE-2023-40278,info
+0day,OpenClinic-GA-5-247-01-Path-Traversal-Authenticated-Vulnerabilit,OpenClinic GA 5.247.01 - Path Traversal (Authenticated) Vulnerability,,2024-04-15 00:00:00+00:00,CVE-2023-40279,
+0day,CrushFTP-Remote-Code-Execution-Exploit,CrushFTP Remote Code Execution Exploit,,2024-04-15 00:00:00+00:00,CVE-2023-43177,rce
+0day,Centreon-23-10-1-el8-SQL-Injection-Vulnerability,Centreon 23.10-1.el8 SQL Injection Vulnerability,,2024-04-16 00:00:00+00:00,,sqli
+0day,Palo-Alto-OS-Command-Injection-Vulnerability,Palo Alto OS Command Injection Vulnerability,,2024-04-17 00:00:00+00:00,CVE-2024-3400,
+0day,pgAdmin-8-3-Remote-Code-Execution-Exploit,pgAdmin 8.3 Remote Code Execution Exploit,,2024-04-17 00:00:00+00:00,CVE-2024-2044,rce
+0day,Palo-Alto-PAN-OS-v11-1-2-h3-Command-Injection-and-Arbitrary-File,Palo Alto PAN-OS < v11.1.2-h3 - Command Injection and Arbitrary File Creation Exploit,,2024-04-21 00:00:00+00:00,CVE-2024-3400,
+0day,FlatPress-v1-3-Remote-Command-Execution-Exploit,FlatPress v1.3 - Remote Command Execution Exploit,,2024-04-21 00:00:00+00:00,,
+0day,SofaWiki-3-9-2-Remote-Command-Execution-Authenticated-Exploit,SofaWiki 3.9.2 - Remote Command Execution (Authenticated) Exploit,,2024-04-21 00:00:00+00:00,,
+0day,Wordpress-Background-Image-Cropper-v1-2-Plugin-Remote-Code-Execu,Wordpress Background Image Cropper v1.2 Plugin - Remote Code Execution Exploit,,2024-04-21 00:00:00+00:00,,rce
+0day,Laravel-Framework-11-Credential-Leakage-Vulnerability,Laravel Framework 11 - Credential Leakage Vulnerability,,2024-04-21 00:00:00+00:00,CVE-2024-29291,info
+0day,Elber-Signum-DVB-S-S2-IRD-For-Radio-Networks-1-999-Authenticatio,Elber Signum DVB-S/S2 IRD For Radio Networks 1.999 Authentication Bypass Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-Signum-DVB-S-S2-IRD-For-Radio-Networks-1-999-Insecure-Dire,Elber Signum DVB-S/S2 IRD For Radio Networks 1.999 Insecure Direct Object Reference Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-Cleber-3-Broadcast-Multi-Purpose-Platform-1-0-0-Insecure-D,Elber Cleber/3 Broadcast Multi-Purpose Platform 1.0.0 Insecure Direct Object Reference Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-Reble610-M-ODU-XPIC-IP-ASI-SDH-Microwave-Link-Authenticati,Elber Reble610 M/ODU XPIC IP-ASI-SDH Microwave Link Authentication Bypass Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-Reble610-M-ODU-XPIC-IP-ASI-SDH-Microwave-Link-Insecure-Dir,Elber Reble610 M/ODU XPIC IP-ASI-SDH Microwave Link Insecure Direct Object Reference Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-ESE-DVB-S-S2-Satellite-Receiver-1-5-x-Authentication-Bypas,Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Authentication Bypass Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-ESE-DVB-S-S2-Satellite-Receiver-1-5-x-Insecure-Direct-Obje,Elber ESE DVB-S/S2 Satellite Receiver 1.5.x Insecure Direct Object Reference Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-Wayber-Analog-Digital-Audio-STL-4-00-Authentication-Bypass,Elber Wayber Analog/Digital Audio STL 4.00 Authentication Bypass Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Elber-Wayber-Analog-Digital-Audio-STL-4-00-Insecure-Direct-Objec,Elber Wayber Analog/Digital Audio STL 4.00 Insecure Direct Object Reference Vulnerability,,2024-04-22 00:00:00+00:00,,
+0day,Palo-Alto-Networks-PAN-OS-Unauthenticated-Remote-Code-Execution-,Palo Alto Networks PAN-OS Unauthenticated Remote Code Execution Exploit,,2024-04-23 00:00:00+00:00,CVE-2024-3400,rce
+0day,Gambio-Online-Webshop-4-9-2-0-Remote-Code-Execution-Exploit,Gambio Online Webshop 4.9.2.0 Remote Code Execution Exploit,,2024-04-23 00:00:00+00:00,CVE-2024-23759,rce
+0day,FortiNet-FortiClient-EMS-7-2-2-7-0-10-SQL-Injection-Remote-Code-,FortiNet FortiClient EMS 7.2.2 / 7.0.10 SQL Injection / Remote Code Execution Exploit,,2024-04-23 00:00:00+00:00,CVE-2023-48788,rce
+0day,GitLens-Git-Local-Configuration-Execution-Exploit,GitLens Git Local Configuration Execution Exploit,,2024-04-23 00:00:00+00:00,CVE-2023-46944,
+0day,Nginx-1-25-5-Host-Header-Validation-Vulnerability,Nginx 1.25.5 Host Header Validation Vulnerability,,2024-04-24 00:00:00+00:00,,
+0day,Relate-Learning-And-Teaching-System-SSTI-Remote-Code-Execution-V,Relate Learning And Teaching System SSTI / Remote Code Execution Vulnerability,,2024-04-24 00:00:00+00:00,,rce
+0day,Apache-Solr-Backup-Restore-API-Remote-Code-Execution-Exploit,Apache Solr Backup/Restore API Remote Code Execution Exploit,,2024-04-24 00:00:00+00:00,CVE-2023-50386,rce
+0day,ESET-NOD32-Antivirus-17-1-11-0-Unquoted-Service-Path-Vulnerabili,ESET NOD32 Antivirus 17.1.11.0 Unquoted Service Path Vulnerability,,2024-04-29 00:00:00+00:00,,
+0day,Doctor-Appointment-Management-System-1-0-Cross-Site-Scripting-Vu,Doctor Appointment Management System 1.0 Cross Site Scripting Vulnerability,,2024-04-29 00:00:00+00:00,CVE-2024-4293,xss
+0day,Kemp-LoadMaster-Unauthenticated-Command-Injection-Exploit,Kemp LoadMaster Unauthenticated Command Injection Exploit,,2024-04-29 00:00:00+00:00,CVE-2024-1212,
+0day,SOPlanning-1-52-00-Cross-Site-Request-Forgery-Vulnerability,SOPlanning 1.52.00 Cross Site Request Forgery Vulnerability,,2024-05-03 00:00:00+00:00,,csrf
+0day,SOPlanning-1-52-00-Cross-Site-Scripting-Vulnerability,SOPlanning 1.52.00 Cross Site Scripting Vulnerability,,2024-05-03 00:00:00+00:00,,xss
+0day,SOPlanning-1-52-00-SQL-Injection-Vulnerability,SOPlanning 1.52.00 SQL Injection Vulnerability,,2024-05-03 00:00:00+00:00,,sqli
+0day,Docker-Privileged-Container-Kernel-Escape-Exploit,Docker Privileged Container Kernel Escape Exploit,,2024-05-07 00:00:00+00:00,,
+0day,Clinic-Queuing-System-1-0-Remote-Code-Execution-Exploit,Clinic Queuing System 1.0 - Remote Code Execution Exploit,,2024-05-08 00:00:00+00:00,"CVE-2024-0264,CVE-2024-0265",rce
+0day,iboss-Secure-Web-Gateway-Stored-Cross-Site-Scripting-Vulnerabili,iboss Secure Web Gateway - Stored Cross-Site Scripting Vulnerability,,2024-05-08 00:00:00+00:00,CVE-2024-3378,
+0day,Openmediavault-Remote-Code-Execution-Local-Privilege-Escalation-,Openmediavault Remote Code Execution / Local Privilege Escalation Exploit,,2024-05-10 00:00:00+00:00,,rce
+0day,Apache-mod-proxy-cluster-Stored-XSS-Exploit,Apache mod_proxy_cluster - Stored XSS Exploit,,2024-05-13 00:00:00+00:00,,xss
+0day,Plantronics-Hub-3-25-1-Arbitrary-File-Read-Vulnerability,Plantronics Hub 3.25.1 - Arbitrary File Read Vulnerability,,2024-05-13 00:00:00+00:00,CVE-2024-27460,
+0day,CrushFTP-11-1-0-Directory-Traversal-Exploit,CrushFTP < 11.1.0 - Directory Traversal Exploit,,2024-05-13 00:00:00+00:00,,
+0day,Chyrp-2-5-2-Stored-XSS-Vulnerability,Chyrp 2.5.2 - Stored XSS Vulnerability,,2024-05-13 00:00:00+00:00,,xss
+0day,Leafpub-1-1-9-Stored-XSS-Vulnerability,Leafpub 1.1.9 - Stored XSS Vulnerability,,2024-05-13 00:00:00+00:00,,xss
+0day,CE-Phoenix-Version-1-0-8-20-Stored-XSS-Vulnerability,CE Phoenix Version 1.0.8.20 - Stored XSS Vulnerability,,2024-05-13 00:00:00+00:00,,xss
+0day,PyroCMS-v3-0-1-Stored-XSS-Vulnerability,PyroCMS v3.0.1 - Stored XSS Vulnerability,,2024-05-13 00:00:00+00:00,,xss
+0day,Prison-Management-System-SQL-Injection-Authentication-Bypass-Vul,Prison Management System - SQL Injection Authentication Bypass Vulnerability,,2024-05-13 00:00:00+00:00,,sqli
+0day,Kemp-LoadMaster-Local-sudo-Privilege-Escalation-Exploit,Kemp LoadMaster Local sudo Privilege Escalation Exploit,,2024-05-13 00:00:00+00:00,,priv_esc
+0day,Openmediavault-Remote-Code-Execution-Local-Privilege-Escalation-,Openmediavault Remote Code Execution / Local Privilege Escalation Exploit,,2024-05-13 00:00:00+00:00,,rce
+0day,Cacti-1-2-26-Remote-Code-Execution-Vulnerability,Cacti 1.2.26 Remote Code Execution Vulnerability,,2024-05-15 00:00:00+00:00,CVE-2024-25641,rce
+0day,Zope-5-9-Command-Injection-Vulnerability,Zope 5.9 Command Injection Vulnerability,,2024-05-15 00:00:00+00:00,CVE-2024-33828,
+0day,Rocket-LMS-1-9-Persistent-Cross-Site-Scripting-Vulnerability,Rocket LMS 1.9 - Persistent Cross Site Scripting Vulnerability,,2024-05-19 00:00:00+00:00,CVE-2024-34241,xss
+0day,Wordpress-Theme-XStore-9-3-8-SQL-injection-Vulnerability,Wordpress Theme XStore 9.3.8 - SQL injection Vulnerability,,2024-05-19 00:00:00+00:00,CVE-2024-33559,sqli
+0day,Apache-OFBiz-18-12-12-Directory-Traversal-Vulnerability,Apache OFBiz 18.12.12 - Directory Traversal Vulnerability,,2024-05-19 00:00:00+00:00,CVE-2024-32113,
+0day,PopojiCMS-2-0-1-Remote-Command-Execution-Exploit,PopojiCMS 2.0.1 - Remote Command Execution Exploit,,2024-05-19 00:00:00+00:00,,
+0day,Backdrop-CMS-1-27-1-Remote-Command-Execution-Exploit,Backdrop CMS 1.27.1 - Remote Command Execution Exploit,,2024-05-19 00:00:00+00:00,,
+0day,htmlLawed-1-2-5-Remote-Code-Execution-Exploit,htmlLawed 1.2.5 - Remote Code Execution Exploit,,2024-05-19 00:00:00+00:00,CVE-2022-35914,rce
+0day,Joomla-4-2-8-Information-Disclosure-Exploit,Joomla 4.2.8 Information Disclosure Exploit,,2024-05-22 00:00:00+00:00,CVE-2023-23752,info
+0day,CHAOS-5-0-8-Cross-Site-Scripting-Remote-Command-Execution-Exploi,CHAOS 5.0.8 Cross Site Scripting / Remote Command Execution Exploit,,2024-05-22 00:00:00+00:00,"CVE-2024-30850,CVE-2024-31839",xss
+0day,FleetCart-4-1-1-Information-Disclosure-Vulnerability,FleetCart 4.1.1 Information Disclosure Vulnerability,,2024-05-28 00:00:00+00:00,CVE-2024-5230,info
+0day,Debezium-UI-2-5-Credential-Disclosure-Vulnerability,Debezium UI 2.5 Credential Disclosure Vulnerability,,2024-05-28 00:00:00+00:00,CVE-2024-28736,
+0day,Jcow-Social-Network-Cross-Site-Scripting-Vulnerability,Jcow Social Network Cross Site Scripting Vulnerability,,2024-05-28 00:00:00+00:00,,xss
+0day,ElkArte-Forum-1-1-9-Remote-Code-Execution-Vulnerability,ElkArte Forum 1.1.9 Remote Code Execution Vulnerability,,2024-05-28 00:00:00+00:00,,rce
+0day,Flowmon-Unauthenticated-Command-Injection-Exploit,Flowmon Unauthenticated Command Injection Exploit,,2024-05-29 00:00:00+00:00,CVE-2024-2389,
+0day,changedetection-0-45-20-Remote-Code-Execution-Exploit,changedetection 0.45.20 Remote Code Execution Exploit,,2024-06-02 00:00:00+00:00,CVE-2024-32651,rce
+0day,Online-Payment-Hub-System-1-0-SQL-Injection-Vulnerability,Online Payment Hub System 1.0 SQL Injection Vulnerability,,2024-06-02 00:00:00+00:00,,sqli
+0day,BWL-Advanced-FAQ-Manager-2-0-3-SQL-Injection-Vulnerability,BWL Advanced FAQ Manager 2.0.3 SQL Injection Vulnerability,,2024-06-02 00:00:00+00:00,CVE-2024-32136,sqli
+0day,Aquatronica-Control-System-5-1-6-Password-Disclosure-Exploit,Aquatronica Control System 5.1.6 Password Disclosure Exploit,,2024-06-02 00:00:00+00:00,,
+0day,Progress-Flowmon-12-3-5-Local-sudo-Privilege-Escalation-Exploit,Progress Flowmon 12.3.5 Local sudo Privilege Escalation Exploit,,2024-06-02 00:00:00+00:00,,priv_esc
+0day,ORing-IAP-420-2-01e-Cross-Site-Scripting-Command-Injection-Vulne,ORing IAP-420 2.01e Cross Site Scripting / Command Injection Vulnerabilities,,2024-06-02 00:00:00+00:00,"CVE-2024-5410,CVE-2024-5411",xss
+0day,Flowmon-Unauthenticated-Command-Injection-Exploit,Flowmon Unauthenticated Command Injection Exploit,,2024-06-02 00:00:00+00:00,CVE-2024-2389,
+0day,Akaunting-3-1-8-Server-Side-Template-Injection-SSTI-Vulnerabilit,Akaunting 3.1.8 - Server-Side Template Injection (SSTI) Vulnerability,,2024-06-02 00:00:00+00:00,,
+0day,FreePBX-16-Remote-Code-Execution-Authenticated-Exploit,FreePBX 16 - Remote Code Execution (Authenticated) Exploit,,2024-06-02 00:00:00+00:00,,rce
+0day,Wipro-Holmes-Orchestrator-20-4-1-Log-File-Disclosure-Exploit,Wipro Holmes Orchestrator 20.4.1 - Log File Disclosure Exploit,,2024-06-02 00:00:00+00:00,CVE-2021-38283,
+0day,Craft-CMS-Logs-Plugin-3-0-3-Path-Traversal-Authenticated-Vulnera,Craft CMS Logs Plugin 3.0.3 - Path Traversal (Authenticated) Vulnerability,,2024-06-02 00:00:00+00:00,CVE-2022-23409,
+0day,Sitefinity-15-0-Cross-Site-Scripting-Vulneraility,Sitefinity 15.0 - Cross-Site Scripting Vulneraility,,2024-06-04 00:00:00+00:00,CVE-2023-27636,
+0day,Employee-And-Visitor-Gate-Pass-Logging-System-1-0-SQL-Injection-,Employee And Visitor Gate Pass Logging System 1.0 SQL Injection Vulnerability,,2024-06-04 00:00:00+00:00,,sqli
+0day,Serendipity-2-5-0-Remote-Code-Execution-Exploit,Serendipity 2.5.0 - Remote Code Execution Exploit,,2024-06-04 00:00:00+00:00,,rce
+0day,Dotclear-2-29-Remote-Code-Execution-Exploit,Dotclear 2.29 - Remote Code Execution Exploit,,2024-06-04 00:00:00+00:00,,rce
+0day,Monstra-CMS-3-0-4-Remote-Code-Execution-Exploit,Monstra CMS 3.0.4 - Remote Code Execution Exploit,,2024-06-04 00:00:00+00:00,,rce
+0day,WBCE-CMS-v1-6-2-Remote-Code-Execution-Exploit,WBCE CMS v1.6.2 - Remote Code Execution Exploit,,2024-06-04 00:00:00+00:00,,rce
+0day,CMSimple-5-15-Remote-Code-Execution-Authenticated-Vulnerability,CMSimple 5.15 - Remote Code Execution (Authenticated) Vulnerability,,2024-06-04 00:00:00+00:00,,rce
+0day,appRain-CMF-4-0-5-Remote-Code-Execution-Authenticated-Exploit,appRain CMF 4.0.5 - Remote Code Execution (Authenticated) Exploit,,2024-06-04 00:00:00+00:00,,rce
+0day,WordPress-Hash-Form-Plugin-Remote-Code-Execution-Exploit,WordPress Hash Form Plugin Remote Code Execution Exploit,,2024-06-05 00:00:00+00:00,CVE-2024-5084,rce
+0day,Quick-Cart-6-7-Shell-Upload-Vulnerability,Quick Cart 6.7 Shell Upload Vulnerability,,2024-06-13 00:00:00+00:00,,
+0day,Quick-CMS-6-7-Shell-Upload-Vulnerability,Quick CMS 6.7 Shell Upload Vulnerability,,2024-06-13 00:00:00+00:00,,
+0day,VSCode-ipynb-Remote-Code-Execution-Exploit,VSCode ipynb Remote Code Execution Exploit,,2024-06-13 00:00:00+00:00,CVE-2022-41034,rce
+0day,Cacti-Import-Packages-Remote-Code-Execution-Exploit,Cacti Import Packages Remote Code Execution Exploit,,2024-06-13 00:00:00+00:00,CVE-2024-25641,rce
+0day,Rejetto-HTTP-File-Server-HFS-Unauthenticated-Remote-Code-Executi,Rejetto HTTP File Server (HFS) Unauthenticated Remote Code Execution Exploit,,2024-06-13 00:00:00+00:00,,rce
+0day,Telerik-Report-Server-Authentication-Bypass-Remote-Code-Executio,Telerik Report Server Authentication Bypass / Remote Code Execution Exploit,,2024-06-13 00:00:00+00:00,"CVE-2024-1800,CVE-2024-4358",rce
+0day,AEGON-LIFE-v1-0-Life-Insurance-Management-System-Stored-cross-si,AEGON LIFE v1.0 Life Insurance Management System - Stored cross-site scripting Vulnerability,,2024-06-14 00:00:00+00:00,CVE-2024-36599,
+0day,AEGON-LIFE-v1-0-Life-Insurance-Management-System-SQL-injection-V,AEGON LIFE v1.0 Life Insurance Management System - SQL injection Vulnerability,,2024-06-14 00:00:00+00:00,CVE-2024-36597,sqli
+0day,AEGON-LIFE-v1-0-Life-Insurance-Management-System-Remote-Code-Exe,AEGON LIFE v1.0 Life Insurance Management System - Remote Code Execution Vulnerability,,2024-06-14 00:00:00+00:00,CVE-2024-36598,rce
+0day,Carbon-Forum-5-9-0-Stored-XSS-Vulnerability,Carbon Forum 5.9.0 - Stored XSS Vulnerability,,2024-06-14 00:00:00+00:00,,xss
+0day,XMB-1-9-12-06-Stored-XSS-Vulnerability,XMB 1.9.12.06 - Stored XSS Vulnerability,,2024-06-14 00:00:00+00:00,,xss
+0day,PHP-8-3-8-Unauthenticated-Remote-Code-Execution-Windows-Exploit,PHP < 8.3.8 - Unauthenticated Remote Code Execution (Windows) Exploit,,2024-06-14 00:00:00+00:00,CVE-2024-4577,rce
+0day,WP-UserOnline-2-88-0-Stored-Cross-Site-Scripting-Authenticated-V,WP-UserOnline 2.88.0 - Stored Cross Site Scripting (Authenticated) Vulnerability,,2024-06-14 00:00:00+00:00,,xss
+0day,Boelter-Blue-System-Management-1-3-SQL-Injection-Vulnerability,Boelter Blue System Management 1.3 - SQL Injection Vulnerability,,2024-06-14 00:00:00+00:00,CVE-2024-36840,sqli
+0day,Netis-MW5360-Remote-Command-Execution-Exploit,Netis MW5360 Remote Command Execution Exploit,,2024-06-24 00:00:00+00:00,CVE-2024-22729,
+0day,Poultry-Farm-Management-System-v1-0-Remote-Code-Execution-Exploi,Poultry Farm Management System v1.0 - Remote Code Execution Exploit,,2024-06-26 00:00:00+00:00,,rce
+0day,Flatboard-3-2-Stored-Cross-Site-Scripting-Authenticated-Vulnerab,Flatboard 3.2 - Stored Cross-Site Scripting (Authenticated) Vulnerability,,2024-06-26 00:00:00+00:00,,
+0day,SolarWinds-Platform-2024-1-SR1-Race-Condition-Expoit,SolarWinds Platform 2024.1 SR1 - Race Condition Expoit,,2024-06-26 00:00:00+00:00,CVE-2024-28999,
+0day,Automad-2-0-0-alpha-4-Stored-Cross-Site-Scripting-Vulnerability,Automad 2.0.0-alpha.4 - Stored Cross-Site Scripting Vulnerability,,2024-06-26 00:00:00+00:00,,
+0day,Customer-Support-System-1-0-Stored-XSS-Vulnerability,Customer Support System 1.0 - Stored XSS Vulnerability,,2024-07-02 00:00:00+00:00,CVE-2023-49976,xss
+0day,Azon-Dominator-Affiliate-Marketing-Script-SQL-Injection-Vulnerab,Azon Dominator Affiliate Marketing Script - SQL Injection Vulnerability,,2024-07-02 00:00:00+00:00,,sqli
+0day,Xhibiter-NFT-Marketplace-1-10-2-SQL-Injection-Vulnerability,Xhibiter NFT Marketplace 1.10.2 - SQL Injection Vulnerability,,2024-07-02 00:00:00+00:00,,sqli
+0day,Microweber-2-0-15-Stored-XSS-Vulnerability,Microweber 2.0.15 - Stored XSS Vulnerability,,2024-07-02 00:00:00+00:00,,xss
+0day,WordPress-FooGallery-2-4-16-Cross-Site-Scripting-Vulnerability,WordPress FooGallery 2.4.16 Cross Site Scripting Vulnerability,,2024-07-02 00:00:00+00:00,,xss
+0day,WordPress-Gallery-2-3-6-Cross-Site-Scripting-Vulnerability,WordPress Gallery 2.3.6 Cross Site Scripting Vulnerability,,2024-07-02 00:00:00+00:00,,xss
+0day,WordPress-WPCode-Lite-2-1-14-Cross-Site-Scripting-Vulnerability,WordPress WPCode Lite 2.1.14 Cross Site Scripting Vulnerability,,2024-07-02 00:00:00+00:00,,xss
+0day,OpenSSH-Server-regreSSHion-Remote-Code-Execution-Vulnerability,OpenSSH Server regreSSHion Remote Code Execution Vulnerability,,2024-07-02 00:00:00+00:00,CVE-2024-6387,rce
+0day,Deep-Sea-Electronics-DSE855-Remote-Authentication-Bypass-Vulnera,Deep Sea Electronics DSE855 Remote Authentication Bypass Vulnerability,,2024-07-03 00:00:00+00:00,CVE-2024-5947,
+0day,Cinema-Booking-System-1-0-SQL-Injection-Cross-Site-Request-Forge,Cinema Booking System 1.0 SQL Injection / Cross Site Request Forgery Vulnerability,,2024-07-09 00:00:00+00:00,,sqli
+0day,Simple-Online-Banking-System-1-0-SQL-Injection-Vulnerability,Simple Online Banking System 1.0 SQL Injection Vulnerability,,2024-07-09 00:00:00+00:00,,sqli
+0day,WordPress-Video-Gallery-YouTube-Gallery-And-Vimeo-Gallery-2-3-6-,WordPress Video Gallery - YouTube Gallery And Vimeo Gallery 2.3.6 SQL Injection Vulnerability,,2024-07-09 00:00:00+00:00,,sqli
+0day,WordPress-Poll-2-3-6-SQL-Injection-Vulnerability,WordPress Poll 2.3.6 SQL Injection Vulnerability,,2024-07-09 00:00:00+00:00,,sqli
+0day,Ivanti-EPM-RecordGoodApp-SQL-Injection-Remote-Code-Execution-Exp,Ivanti EPM RecordGoodApp SQL Injection / Remote Code Execution Exploit,,2024-07-09 00:00:00+00:00,CVE-2024-29824,rce
+0day,Atlassian-Confluence-Administrator-Code-Macro-Remote-Code-Execut,Atlassian Confluence Administrator Code Macro Remote Code Execution Exploit,,2024-07-15 00:00:00+00:00,CVE-2024-21683,rce
+0day,Geoserver-Unauthenticated-Remote-Code-Execution-Exploit,Geoserver Unauthenticated Remote Code Execution Exploit,,2024-07-16 00:00:00+00:00,CVE-2024-36401,rce
+0day,Hospital-Management-System-Project-In-ASP-Net-MVC-1-SQL-Injectio,Hospital Management System Project In ASP.Net MVC 1 SQL Injection Vulnerability,,2024-07-17 00:00:00+00:00,CVE-2024-40502,sqli
+0day,XenForo-2-2-15-Cross-Site-Request-Forgery-Vulnerability,XenForo 2.2.15 Cross Site Request Forgery Vulnerability,,2024-07-17 00:00:00+00:00,CVE-2024-38457,csrf
+0day,Xenforo-2-2-15-Remote-Code-Execution-Vulnerability,Xenforo 2.2.15 Remote Code Execution Vulnerability,,2024-07-17 00:00:00+00:00,CVE-2024-38458,rce
+0day,Ghostscript-Command-Execution-Format-String-Exploit,Ghostscript Command Execution / Format String Exploit,,2024-07-22 00:00:00+00:00,CVE-2024-29510,
+0day,Softing-Secure-Integration-Server-1-22-Remote-Code-Execution-Exp,Softing Secure Integration Server 1.22 Remote Code Execution Exploit,,2024-07-22 00:00:00+00:00,"CVE-2022-1373,CVE-2022-2334",rce
+0day,Prison-Management-System-1-0-Shell-Upload-Vulnerability,Prison Management System 1.0 Shell Upload Vulnerability,,2024-07-25 00:00:00+00:00,,
+0day,mySCADA-MyPRO-Authenticated-Command-Injection-Exploit,mySCADA MyPRO Authenticated Command Injection Exploit,,2024-07-29 00:00:00+00:00,CVE-2023-28384,
+0day,Readymade-Real-Estate-Script-SQL-Injection-Cross-Site-Scripting-,Readymade Real Estate Script SQL Injection / Cross Site Scripting Vulnerabilities,,2024-07-31 00:00:00+00:00,,xss
+0day,OpenMediaVault-rpc-php-Authenticated-Cron-Remote-Code-Execution-,OpenMediaVault rpc.php Authenticated Cron Remote Code Execution Exploit,,2024-07-31 00:00:00+00:00,CVE-2013-3632,rce
+0day,Ivanti-vADC-9-9-Authentication-Bypass-Exploit,Ivanti vADC 9.9 - Authentication Bypass Exploit,,2024-08-04 00:00:00+00:00,,
+0day,Oracle-Database-12c-Release-1-Unquoted-Service-Path-Vulnerabilit,Oracle Database 12c Release 1 - Unquoted Service Path Vulnerability,,2024-08-04 00:00:00+00:00,,
+0day,SolarWinds-Kiwi-Syslog-Server-9-6-7-1-Unquoted-Service-Path-Vuln,SolarWinds Kiwi Syslog Server 9.6.7.1 - Unquoted Service Path Vulnerability,,2024-08-04 00:00:00+00:00,,
+0day,Genexus-Protection-Server-9-7-2-10-protsrvservice-Unquoted-Servi,Genexus Protection Server 9.7.2.10 - (protsrvservice) Unquoted Service Path Vulnerability,,2024-08-04 00:00:00+00:00,,
+0day,Devika-v1-Path-Traversal-via-snapshot-path-Exploit,Devika v1 - Path Traversal via (snapshot_path) Exploit,,2024-08-04 00:00:00+00:00,CVE-2024-40422,
+0day,Linux-DRM-drm-file-update-pid-Race-Condition-Use-After-Free-Expl,Linux DRM drm_file_update_pid() Race Condition / Use-After-Free Exploit,,2024-08-07 00:00:00+00:00,CVE-2024-39486,
+0day,Microweber-2-0-15-Cross-Site-Scripting-Vulnerability,Microweber 2.0.15 Cross Site Scripting Vulnerability,,2024-08-07 00:00:00+00:00,CVE-2024-40101,xss
+0day,Tourism-Management-System-2-0-Cross-Site-Scripting-Vulnerability,Tourism Management System 2.0 Cross Site Scripting Vulnerability,,2024-08-07 00:00:00+00:00,CVE-2024-41333,xss
+0day,WordPress-PayPlus-Payment-Gateway-SQL-Injection-Exploit,WordPress PayPlus Payment Gateway SQL Injection Exploit,,2024-08-07 00:00:00+00:00,CVE-2024-6205,sqli
+0day,Online-Shopping-Portal-Project-2-0-SQL-Injection-Vulnerability,Online Shopping Portal Project 2.0 SQL Injection Vulnerability,,2024-08-07 00:00:00+00:00,,sqli
+0day,ReadyMade-Unilevel-Ecommerce-MLM-Blind-SQL-Injection-Cross-Site-,ReadyMade Unilevel Ecommerce MLM Blind SQL Injection / Cross Site Scripting Vulnerabilities,,2024-08-07 00:00:00+00:00,,rce
+0day,Leads-Manager-Tool-SQL-Injection-Cross-Site-Scripting-Vulnerabil,Leads Manager Tool SQL Injection / Cross Site Scripting Vulnerabilities,,2024-08-07 00:00:00+00:00,,xss
+0day,Dolphin-7-4-2-Blind-SQL-Injection-Vulnerability,Dolphin 7.4.2 Blind SQL Injection Vulnerability,,2024-08-07 00:00:00+00:00,,sqli
+0day,Computer-Laboratory-Management-System-1-0-Privilege-Escalation-V,Computer Laboratory Management System 1.0 Privilege Escalation Vulnerability,,2024-08-07 00:00:00+00:00,CVE-2024-41332,priv_esc
+0day,Journyx-11-5-4-XML-Injection-Vulnerability,Journyx 11.5.4 XML Injection Vulnerability,,2024-08-08 00:00:00+00:00,CVE-2024-6893,
+0day,Journyx-11-5-4-Cross-Site-Scripting-Vulnerability,Journyx 11.5.4 Cross Site Scripting Vulnerability,,2024-08-08 00:00:00+00:00,CVE-2024-6892,xss
+0day,Journyx-11-5-4-Unauthenticated-Password-Reset-Bruteforce-Vulnera,Journyx 11.5.4 Unauthenticated Password Reset Bruteforce Vulnerability,,2024-08-08 00:00:00+00:00,CVE-2024-6890,rce
+0day,Journyx-11-5-4-Authenticated-Remote-Code-Execution-Vulnerability,Journyx 11.5.4 Authenticated Remote Code Execution Vulnerability,,2024-08-08 00:00:00+00:00,CVE-2024-6891,rce
+0day,Open-WebUI-0-1-105-File-Upload-Path-Traversal-Vulnerabilities,Open WebUI 0.1.105 File Upload / Path Traversal Vulnerabilities,,2024-08-08 00:00:00+00:00,CVE-2024-6707,
+0day,Open-WebUI-0-1-105-Persistent-Cross-Site-Scripting-Vulnerability,Open WebUI 0.1.105 Persistent Cross Site Scripting Vulnerability,,2024-08-08 00:00:00+00:00,CVE-2024-6706,xss
+0day,Windows-Firewall-Control-6-11-0-Unquoted-Service-Path-Vulnerabil,Windows Firewall Control 6.11.0 Unquoted Service Path Vulnerability,,2024-08-08 00:00:00+00:00,,
+0day,Calibre-7-15-0-Python-Code-Injection-Exploit,Calibre 7.15.0 Python Code Injection Exploit,,2024-08-08 00:00:00+00:00,CVE-2024-6782,
+0day,WordPress-MapFig-Studio-0-2-1-Cross-Site-Request-Forgery-Cross-S,WordPress MapFig Studio 0.2.1 Cross Site Request Forgery / Cross Site Scripting Vulnerabilities,,2024-08-14 00:00:00+00:00,,xss
+0day,WordPress-Light-Poll-1-0-0-Cross-Site-Request-Forgery-Vulnerabil,WordPress Light Poll 1.0.0 Cross Site Request Forgery Vulnerability,,2024-08-14 00:00:00+00:00,,csrf
+0day,WordPress-Profilepro-1-3-Cross-Site-Scripting-Vulnerability,WordPress Profilepro 1.3 Cross Site Scripting Vulnerability,,2024-08-14 00:00:00+00:00,,xss
+0day,WordPress-PVN-Auth-Popup-1-0-0-Cross-Site-Scripting-Vulnerabilit,WordPress PVN Auth Popup 1.0.0 Cross Site Scripting Vulnerability,,2024-08-14 00:00:00+00:00,,xss
+0day,LG-Simple-Editor-3-21-0-Command-Injection-Exploit,LG Simple Editor 3.21.0 Command Injection Exploit,,2024-08-15 00:00:00+00:00,CVE-2023-40504,
+0day,OpenMetadata-1-2-3-Authentication-Bypass-SpEL-Injection-Exploit,OpenMetadata 1.2.3 Authentication Bypass / SpEL Injection Exploit,,2024-08-15 00:00:00+00:00,"CVE-2024-28254,CVE-2024-28255",
+0day,Apache-HugeGraph-Gremlin-Remote-Code-Execution-Exploit,Apache HugeGraph Gremlin Remote Code Execution Exploit,,2024-08-15 00:00:00+00:00,CVE-2024-27348,rce
+0day,Build-Your-Own-Botnet-2-0-0-Remote-Code-Execution-Exploit,Build Your Own Botnet 2.0.0 Remote Code Execution Exploit,,2024-08-18 00:00:00+00:00,,rce
+0day,DIAEnergie-1-10-SQL-Injection-Exploit,DIAEnergie 1.10 SQL Injection Exploit,,2024-08-22 00:00:00+00:00,CVE-2024-4548,sqli
+0day,SPIP-4-2-12-Remote-Code-Execution-Exploit,SPIP 4.2.12 Remote Code Execution Exploit,,2024-08-22 00:00:00+00:00,,rce
+0day,Calibre-web-0-6-21-Stored-XSS-Vulnerability,Calibre-web 0.6.21 - Stored XSS Vulnerability,,2024-08-24 00:00:00+00:00,CVE-2024-39123,xss
+0day,Helpdeskz-v2-0-2-Stored-XSS-Vulnerability,Helpdeskz v2.0.2 - Stored XSS Vulnerability,,2024-08-24 00:00:00+00:00,,xss
+0day,Elber-ESE-DVB-S-S2-Satellite-Receiver-1-5-x-Device-Config-Vulner,Elber ESE DVB-S/S2 Satellite Receiver 1.5.x - Device Config Vulnerability,,2024-08-24 00:00:00+00:00,,
+0day,Elber-ESE-DVB-S-S2-Satellite-Receiver-1-5-x-Authentication-Bypas,Elber ESE DVB-S/S2 Satellite Receiver 1.5.x - Authentication Bypass Vulnerability,,2024-08-24 00:00:00+00:00,,
+0day,Elber-Wayber-Analog-Digital-Audio-STL-4-00-Authentication-Bypass,Elber Wayber Analog/Digital Audio STL 4.00 - Authentication Bypass Vulnerability,,2024-08-24 00:00:00+00:00,,
+0day,Elber-Wayber-Analog-Digital-Audio-STL-4-00-Device-Config-Disclos,Elber Wayber Analog/Digital Audio STL 4.00 - Device Config Disclosure Vulnerability,,2024-08-24 00:00:00+00:00,,
+0day,HughesNet-HT2000W-Satellite-Modem-Password-Reset-Exploit,HughesNet HT2000W Satellite Modem - Password Reset Exploit,,2024-08-27 00:00:00+00:00,CVE-2021-20090,
+0day,Aurba-501-Authenticated-Remote-Code-Execution-Exploit,Aurba 501 - Authenticated Remote Code Execution Exploit,,2024-08-27 00:00:00+00:00,,rce
+0day,Ray-cpu-profile-Command-Injection-Exploit,Ray cpu_profile Command Injection Exploit,,2024-08-27 00:00:00+00:00,CVE-2023-6019,
+0day,Ray-Agent-Job-Remote-Code-Execution-Exploit,Ray Agent Job Remote Code Execution Exploit,,2024-08-27 00:00:00+00:00,CVE-2023-48022,rce
+0day,Windows-TCP-IP-Remote-Code-Execution-Checker-and-Denial-of-Servi,Windows TCP/IP - Remote Code Execution Checker and Denial of Service Exploit,,2024-08-28 00:00:00+00:00,CVE-2024-38063,rce
+0day,Invesalius-3-1-Remote-Code-Execution-Exploit,Invesalius 3.1 Remote Code Execution Exploit,,2024-08-28 00:00:00+00:00,CVE-2024-42845,rce
+0day,Gitea-1-22-0-Stored-XSS-Vulnerability,Gitea 1.22.0 - Stored XSS Vulnerability,,2024-08-28 00:00:00+00:00,CVE-2024-6886,xss
+0day,NoteMark-0-13-0-Stored-XSS-Vulnerability,NoteMark < 0.13.0 - Stored XSS Vulnerability,,2024-08-28 00:00:00+00:00,CVE-2024-41819,xss
+0day,vTiger-CRM-7-4-0-Cross-Site-Scripting-Open-Redirection-Vulnerabi,vTiger CRM 7.4.0 Cross Site Scripting / Open Redirection Vulnerabilities,,2024-08-29 00:00:00+00:00,"CVE-2024-44776,CVE-2024-44777,CVE-2024-44778,CVE-2024-44779",xss
+0day,WordPress-GiveWP-Donation-Fundraising-Platform-3-14-1-Code-Execu,WordPress GiveWP Donation / Fundraising Platform 3.14.1 Code Execution Exploit,,2024-08-29 00:00:00+00:00,CVE-2024-5932,rce
+0day,pgAdmin-8-4-Remote-Code-Execution-Exploit,pgAdmin 8.4 Remote Code Execution Exploit,,2024-08-29 00:00:00+00:00,CVE-2024-3116,rce
+0day,IntelliNet-2-0-Remote-Root-Exploit,IntelliNet 2.0 Remote Root Exploit,,2024-09-04 00:00:00+00:00,,
+0day,Linux-Kernel-5-6-13-Use-After-Free-Exploit,Linux Kernel 5.6.13 Use-After-Free Exploit,,2024-09-04 00:00:00+00:00,CVE-2020-27796,
+0day,ASIS-3-2-0-SQL-Injection-Vulnerability,ASIS 3.2.0 SQL Injection Vulnerability,,2024-09-11 00:00:00+00:00,CVE-2024-45622,sqli
+0day,VICIdial-2-14-917a-SQL-Injection-Vulnerability,VICIdial 2.14-917a SQL Injection Vulnerability,,2024-09-11 00:00:00+00:00,CVE-2024-8503,sqli
+0day,VICIdial-2-14-917a-Remote-Code-Execution-Vulnerability,VICIdial 2.14-917a Remote Code Execution Vulnerability,,2024-09-11 00:00:00+00:00,CVE-2024-8504,rce
+0day,QNX-Qconn-Command-Execution-Exploit,QNX Qconn Command Execution Exploit,,2024-09-14 00:00:00+00:00,,
+0day,SPIP-BigUp-4-3-1-4-2-15-4-1-17-Unauthenticated-Remote-Code-Execu,SPIP BigUp 4.3.1 / 4.2.15 / 4.1.17 Unauthenticated Remote Code Execution Exploit,,2024-09-14 00:00:00+00:00,CVE-2024-8517,rce
+0day,Windows-Escalate-UAC-Execute-RunAs-Exploit,Windows Escalate UAC Execute RunAs Exploit,,2024-09-14 00:00:00+00:00,,
+0day,Dockwatch-Remote-Command-Execution-Exploit,Dockwatch Remote Command Execution Exploit,,2024-09-18 00:00:00+00:00,,
+0day,WordPress-LiteSpeed-Cache-Cookie-Theft-Exploit,WordPress LiteSpeed Cache Cookie Theft Exploit,,2024-09-18 00:00:00+00:00,CVE-2024-44000,
+0day,Microsoft-Windows-TOCTOU-Local-Privilege-Escalation-Exploit,Microsoft Windows TOCTOU Local Privilege Escalation Exploit,,2024-09-18 00:00:00+00:00,CVE-2024-30038,priv_esc
+0day,BlackNET-3-7-0-0-Missing-Authentication-File-Deletion-Traversal-,BlackNET 3.7.0.0 Missing Authentication / File Deletion / Traversal Exploit,,2024-09-23 00:00:00+00:00,,
+0day,WordPress-LMS-4-2-7-SQL-Injection-Vulnerability,WordPress LMS 4.2.7 SQL Injection Vulnerability,,2024-09-23 00:00:00+00:00,CVE-2024-8522,sqli
+0day,Elaines-Realtime-CRM-Automation-6-18-17-Cross-Site-Scripting-Vul,Elaines Realtime CRM Automation 6.18.17 Cross Site Scripting Vulnerability,,2024-09-24 00:00:00+00:00,CVE-2024-42831,xss
+0day,Netman-204-4-05-SQL-Injection-Unauthenticated-Password-Reset-Vul,Netman 204 4.05 SQL Injection / Unauthenticated Password Reset Vulnerabilities,,2024-09-24 00:00:00+00:00,"CVE-2024-8877,CVE-2024-8878",sqli
+0day,ABB-Cylon-Aspect-3-08-01-Remote-Code-Execution-Vulnerability,ABB Cylon Aspect 3.08.01 Remote Code Execution Vulnerability,,2024-09-24 00:00:00+00:00,CVE-2024-6298,rce
+0day,Traccar-5-12-Remote-Code-Execution-Exploit,Traccar 5.12 Remote Code Execution Exploit,,2024-09-24 00:00:00+00:00,"CVE-2024-24809,CVE-2024-31214",rce
+0day,Apple-iOS-17-2-1-Screen-Time-Passcode-Retrieval-Mitigation-Bypas,Apple iOS 17.2.1 Screen Time Passcode Retrieval / Mitigation Bypass Vulnerabilities,,2024-09-24 00:00:00+00:00,,
+0day,Linux-i915-PTE-Use-After-Free-Exploit,Linux i915 PTE Use-After-Free Exploit,,2024-09-24 00:00:00+00:00,CVE-2024-42259,
+0day,Linux-OverlayFS-Local-Privilege-Escalation-Exploit,Linux OverlayFS Local Privilege Escalation Exploit,,2024-09-29 00:00:00+00:00,CVE-2023-0386,priv_esc
+0day,dizqueTV-1-5-3-Remote-Code-Execution-Vulnerability,dizqueTV 1.5.3 - Remote Code Execution Vulnerability,,2024-10-01 00:00:00+00:00,,rce
+0day,openSIS-9-1-SQL-injection-Authenticated-Vulnerability,openSIS 9.1 - SQL injection (Authenticated) Vulnerability,,2024-10-01 00:00:00+00:00,,sqli
+0day,reNgine-2-2-0-Command-Injection-Authenticated-Vulnerability,reNgine 2.2.0 - Command Injection (Authenticated) Vulnerability,,2024-10-01 00:00:00+00:00,,
+0day,VICIdial-Authenticated-Remote-Code-Execution-Exploit,VICIdial Authenticated Remote Code Execution Exploit,,2024-10-01 00:00:00+00:00,CVE-2024-8504,rce
+0day,Acronis-Cyber-Infrastructure-Default-Password-Remote-Code-Execut,Acronis Cyber Infrastructure Default Password Remote Code Execution Exploit,,2024-10-03 00:00:00+00:00,CVE-2023-45249,rce
+0day,MD-Pro-1-0-76-Shell-Upload-SQL-Injection-Vulnerability,MD-Pro 1.0.76 Shell Upload / SQL Injection Vulnerability,,2024-10-07 00:00:00+00:00,,sqli
+0day,ABB-Cylon-Aspect-3-07-02-user-properties-Default-Credentials-Vul,ABB Cylon Aspect 3.07.02 user.properties Default Credentials Vulnerability,,2024-10-11 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-persistenceManagerAjax-php-Directory-Tr,ABB Cylon Aspect 3.08.01 persistenceManagerAjax.php Directory Traversal Vulnerability,,2024-10-11 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-07-02-sshUpdate-php-Unauthenticated-Remote-SS,ABB Cylon Aspect 3.07.02 sshUpdate.php Unauthenticated Remote SSH Service Control Vulnerability,,2024-10-11 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-00-dialupSwitch-php-Remote-Code-Execution-,ABB Cylon Aspect 3.08.00 dialupSwitch.php Remote Code Execution Vulnerability,,2024-10-11 00:00:00+00:00,,rce
+0day,ABB-Cylon-Aspect-3-08-00-yumSettings-php-Command-Injection-Vulne,ABB Cylon Aspect 3.08.00 yumSettings.php Command Injection Vulnerability,,2024-10-15 00:00:00+00:00,,
+0day,Vivo-Fibra-Askey-RTF8225VW-Command-Execution-Vulnerability,Vivo Fibra Askey RTF8225VW Command Execution Vulnerability,,2024-10-15 00:00:00+00:00,,
+0day,Peel-Shopping-2-x-Cross-Site-Scripting-SQL-Injection-Exploit,Peel Shopping 2.x Cross Site Scripting / SQL Injection Exploit,,2024-10-15 00:00:00+00:00,,xss
+0day,ABB-Cylon-Aspect-3-08-00-sslCertAjax-php-Remote-Command-Executio,ABB Cylon Aspect 3.08.00 sslCertAjax.php Remote Command Execution Vulnerability,,2024-10-15 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-mapConfigurationDownload-php-Configurat,ABB Cylon Aspect 3.08.01 mapConfigurationDownload.php Configuration Download Vulnerability,,2024-10-22 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-persistenceManagerAjax-php-Command-Inje,ABB Cylon Aspect 3.08.01 persistenceManagerAjax.php Command Injection Vulnerability,,2024-10-22 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-databaseFileDelete-php-Command-Injectio,ABB Cylon Aspect 3.08.01 databaseFileDelete.php Command Injection Vulnerability,,2024-10-22 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-networkDiagAjax-php-Remote-Network-Util,ABB Cylon Aspect 3.08.01 networkDiagAjax.php Remote Network Utility Execution Vulnerability,,2024-10-22 00:00:00+00:00,,
+0day,SofaWiki-3-9-2-Cross-Site-Scripting-Vulnerability,SofaWiki 3.9.2 Cross Site Scripting Vulnerability,,2024-10-22 00:00:00+00:00,,xss
+0day,SofaWiki-3-9-2-Shell-Upload-Exploit,SofaWiki 3.9.2 Shell Upload Exploit,,2024-10-22 00:00:00+00:00,,
+0day,BYOB-Unauthenticated-Remote-Code-Execution-Exploit,BYOB Unauthenticated Remote Code Execution Exploit,,2024-10-22 00:00:00+00:00,"CVE-2024-45256,CVE-2024-45257",rce
+0day,Magento-Adobe-Commerce-Remote-Code-Execution-Exploit,Magento / Adobe Commerce Remote Code Execution Exploit,,2024-10-22 00:00:00+00:00,"CVE-2024-2961,CVE-2024-34102",rce
+0day,ABB-Cylon-Aspect-3-08-01-throttledLog-php-Unauthenticated-Log-Di,ABB Cylon Aspect 3.08.01 throttledLog.php Unauthenticated Log Disclosure Vulnerability,,2024-10-23 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-logCriticalLookup-php-Unauthenticated-L,ABB Cylon Aspect 3.08.01 logCriticalLookup.php Unauthenticated Log Disclosure Vulnerability,,2024-10-23 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-02-logYumLookup-php-Authenticated-File-Dis,ABB Cylon Aspect 3.08.02 logYumLookup.php Authenticated File Disclosure Vulnerability,,2024-10-25 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Username-Enumeration-Vuln,ABB Cylon Aspect 3.08.01 jsonProxy.php Username Enumeration Vulnerability,,2024-10-30 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Information-Disclosure-Vu,ABB Cylon Aspect 3.08.01 jsonProxy.php Information Disclosure Vulnerability,,2024-10-30 00:00:00+00:00,,info
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Unauthenticated-Remote-SS,ABB Cylon Aspect 3.08.01 jsonProxy.php Unauthenticated Remote SSH Service Control Vulnerability,,2024-10-30 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Denial-Of-Service-Vulnera,ABB Cylon Aspect 3.08.01 jsonProxy.php Denial Of Service Vulnerability,,2024-10-30 00:00:00+00:00,,dos
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Unauthenticated-Project-D,ABB Cylon Aspect 3.08.01 jsonProxy.php Unauthenticated Project Download Vulnerability,,2024-10-30 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Servlet-Inclusion-Authent,ABB Cylon Aspect 3.08.01 jsonProxy.php Servlet Inclusion Authentication Bypass Vulnerability,,2024-10-30 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Unauthenticated-Credentia,ABB Cylon Aspect 3.08.01 jsonProxy.php Unauthenticated Credential Disclosure Vulnerability,,2024-10-30 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-Active-Debug-Data-Exposure-Vulnerabilit,ABB Cylon Aspect 3.08.01 Active Debug Data Exposure Vulnerability,,2024-10-30 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-jsonProxy-php-Cross-Site-Scripting-Vuln,ABB Cylon Aspect 3.08.01 jsonProxy.php Cross Site Scripting Vulnerability,,2024-10-30 00:00:00+00:00,,xss
+0day,Xerox-Printers-Authenticated-Remote-Code-Execution-Vulnerability,Xerox Printers Authenticated Remote Code Execution Vulnerability,,2024-10-30 00:00:00+00:00,CVE-2024-6333,rce
+0day,WordPress-WP-Automatic-SQL-Injection-Exploit,WordPress WP-Automatic SQL Injection Exploit,,2024-10-30 00:00:00+00:00,CVE-2024-27956,sqli
+0day,ABB-Cylon-Aspect-3-08-00-Off-By-One-Vulnerability,ABB Cylon Aspect 3.08.00 Off-By-One Vulnerability,,2024-11-06 00:00:00+00:00,,
+0day,ABB-Cylon-Aspect-3-08-01-File-Upload-MD5-Checksum-Bypass-Vulnera,ABB Cylon Aspect 3.08.01 File Upload MD5 Checksum Bypass Vulnerability,,2024-11-06 00:00:00+00:00,,
+0day,SQLite3-generate-series-Stack-Buffer-Underflow-Vulnerability,SQLite3 generate_series Stack Buffer Underflow Vulnerability,,2024-11-06 00:00:00+00:00,,sqli
+0day,SmartAgent-1-1-0-Server-Side-Request-Forgery-Vulnerability,SmartAgent 1.1.0 Server-Side Request Forgery Vulnerability,,2024-11-06 00:00:00+00:00,,
+0day,SmartAgent-1-1-0-SQL-Injection-Vulnerability,SmartAgent 1.1.0 SQL Injection Vulnerability,,2024-11-06 00:00:00+00:00,,sqli
+0day,SmartAgent-1-1-0-Remote-Code-Execution-Vulnerability,SmartAgent 1.1.0 Remote Code Execution Vulnerability,,2024-11-06 00:00:00+00:00,,rce
+0day,CyberPanel-upgrademysqlstatus-Arbitrary-Command-Execution-Exploi,CyberPanel upgrademysqlstatus Arbitrary Command Execution Exploit,,2024-11-07 00:00:00+00:00,CVE-2024-51567,
+0day,WordPress-Meetup-0-1-Authentication-Bypass-Vulnerability,WordPress Meetup 0.1 Authentication Bypass Vulnerability,,2024-11-07 00:00:00+00:00,CVE-2024-50483,
+0day,Siemens-Energy-Omnivise-T3000-8-2-SP3-Privilege-Escalation-File-,Siemens Energy Omnivise T3000 8.2 SP3 Privilege Escalation / File Download Vulnerabilities,,2024-11-14 00:00:00+00:00,"CVE-2024-38876,CVE-2024-38877,CVE-2024-38878,CVE-2024-38879",priv_esc
+0day,Palo-Alto-Expedition-1-2-91-Remote-Code-Execution-Exploit,Palo Alto Expedition 1.2.91 Remote Code Execution Exploit,,2024-11-14 00:00:00+00:00,"CVE-2024-24809,CVE-2024-5910",rce
+0day,SOPlanning-1-52-01-Simple-Online-Planning-Tool-Remote-Code-Execu,SOPlanning 1.52.01 (Simple Online Planning Tool) - Remote Code Execution (Authenticated) Exploit,,2024-11-15 00:00:00+00:00,,rce
+0day,Pyload-Remote-Code-Execution-Exploit,Pyload Remote Code Execution Exploit,,2024-11-18 00:00:00+00:00,"CVE-2024-28397,CVE-2024-39205",rce
+0day,Judge0-Sandbox-Escape-Exploit,Judge0 Sandbox Escape Exploit,,2024-11-21 00:00:00+00:00,"CVE-2024-28185,CVE-2024-28189",
+0day,Ivanti-EPM-Agent-Portal-Command-Execution-Exploit,Ivanti EPM Agent Portal Command Execution Exploit,,2024-11-21 00:00:00+00:00,CVE-2023-28324,
+0day,Korenix-JetPort-5601-1-2-Path-Traversal-Vulnerability,Korenix JetPort 5601 1.2 Path Traversal Vulnerability,,2024-11-24 00:00:00+00:00,CVE-2024-11303,
+0day,Linux-6-6-Race-Condition-Exploit,Linux 6.6 Race Condition Exploit,,2024-11-24 00:00:00+00:00,CVE-2024-50066,
+0day,needrestart-Local-Privilege-Escalation-Vulnerability,needrestart Local Privilege Escalation Vulnerability,,2024-11-24 00:00:00+00:00,"CVE-2024-10224,CVE-2024-11003,CVE-2024-48990,CVE-2024-48991,CVE-2024-48992",priv_esc
+0day,ProjectSend-R1605-Unauthenticated-Remote-Code-Execution-Exploit,ProjectSend R1605 Unauthenticated Remote Code Execution Exploit,,2024-11-24 00:00:00+00:00,,rce
+0day,CUPS-IPP-Attributes-LAN-Remote-Code-Execution-Exploit,CUPS IPP Attributes LAN Remote Code Execution Exploit,,2024-11-24 00:00:00+00:00,"CVE-2024-47076,CVE-2024-47175,CVE-2024-47176,CVE-2024-47177",rce
+0day,ABB-Cylon-Aspect-3-08-01-vstatConfigurationDownload-php-Configur,ABB Cylon Aspect 3.08.01 vstatConfigurationDownload.php Configuration Download Vulnerability,,2024-11-27 00:00:00+00:00,,
+0day,Akuvox-Smart-Intercom-Doorphone-ServicesHTTPAPI-Improper-Access-,Akuvox Smart Intercom/Doorphone ServicesHTTPAPI Improper Access Control Vulnerability,,2024-11-27 00:00:00+00:00,,
+0day,Roundcube-Webmail-Stored-XSS-Exploit,Roundcube Webmail Stored XSS Exploit,,2024-11-27 00:00:00+00:00,CVE-2024-37383,xss
+0day,ABB-Cylon-Aspect-3-08-01-diagLateThread-php-Information-Disclosu,ABB Cylon Aspect 3.08.01 diagLateThread.php Information Disclosure Vulnerability,,2024-12-03 00:00:00+00:00,,info
+0day,ABB-Cylon-Aspect-3-08-01-mstpstatus-php-Information-Disclosure-V,ABB Cylon Aspect 3.08.01 mstpstatus.php Information Disclosure Vulnerability,,2024-12-03 00:00:00+00:00,,info
+0day,ABB-Cylon-Aspect-3-08-00-fileSystemUpdate-php-File-Upload-Denial,ABB Cylon Aspect 3.08.00 fileSystemUpdate.php File Upload / Denial Of Service Vulnerabilities,,2024-12-03 00:00:00+00:00,,dos
+0day,Fortinet-FortiManager-Unauthenticated-Remote-Code-Execution-Expl,Fortinet FortiManager Unauthenticated Remote Code Execution Exploit,,2024-12-03 00:00:00+00:00,CVE-2024-47575,rce
+0day,Asterisk-AMI-Originate-Authenticated-Remote-Code-Execution-Explo,Asterisk AMI Originate Authenticated Remote Code Execution Exploit,,2024-12-03 00:00:00+00:00,CVE-2024-42365,rce
+0day,Acronis-Cyber-Protect-Backup-Remote-Code-Execution-Exploit,Acronis Cyber Protect/Backup Remote Code Execution Exploit,,2024-12-03 00:00:00+00:00,CVE-2022-3405,rce

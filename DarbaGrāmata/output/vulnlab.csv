@@ -1,0 +1,101 @@
+avots,id,nosaukums,url,diena,cves,tips
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-mobile,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=mobile,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-vendor,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=vendor,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-webapp,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=webapp,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-remote,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=remote,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-local,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=local,,,priv_esc
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-website,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=website,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-docu,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=docu,,CVE-2015-0235,
+vulnlab,https-www-vulnerability-lab-com-show-php-cat-video,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?cat=video,,CVE-2018-18098,xss
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2314,Account Information,https://www.vulnerability-lab.com/download_content.php?id=2314,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-month-07-2023,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=07-2023,,,priv_esc
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-48-month-07-2023,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=48&&month=07-2023,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2314,Account Information,https://www.vulnerability-lab.com/get_content.php?id=2314,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-platform-Remote,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?platform=Remote,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-user-Vulnerability-Lab,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?user=Vulnerability-Lab,,,priv_esc
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2313,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2313,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2313,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2313,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2285,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2285,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2285,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2285,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2286,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2286,,,rce
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2286,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2286,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2276,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2276,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2276,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2276,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2278,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2278,,,
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2278,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2278,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2274,<[MALICIOUS INJECTED SCRIPT CODE PAYLOAD 1!]>,https://www.vulnerability-lab.com/download_content.php?id=2274,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2274,<[MALICIOUS INJECTED SCRIPT CODE PAYLOAD 1!]>,https://www.vulnerability-lab.com/get_content.php?id=2274,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2287,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2287,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-month-10-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=10-2022,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-48-month-10-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=48&&month=10-2022,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2287,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2287,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2311,vicidial xss exploit,https://www.vulnerability-lab.com/download_content.php?id=2311,,,rce
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2311,vicidial xss exploit,https://www.vulnerability-lab.com/get_content.php?id=2311,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2307,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2307,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2307,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2307,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2279,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2279,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-month-06-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=06-2022,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-48-month-06-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=48&&month=06-2022,,,rce
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2279,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2279,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2273,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2273,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-month-04-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=04-2022,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-48-month-04-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=48&&month=04-2022,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2273,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2273,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2326,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2326,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2326,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2326,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2317,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2317,,,
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2317,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2317,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2321,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2321,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2321,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2321,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2322,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2322,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2322,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2322,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2320,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2320,,,
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-72-month-10-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=72&&month=10-2022,,,
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2320,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2320,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2315,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2315,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-month-01-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=01-2022,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-48-month-01-2022,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=48&&month=01-2022,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2315,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2315,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-platform-Local,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?platform=Local,,CVE-2018-18098,priv_esc
+vulnlab,https-www-vulnerability-lab-com-show-php-user-TaurusOmar,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?user=TaurusOmar,,,
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2271,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2271,,,
+vulnlab,https-www-vulnerability-lab-com-show-php-month-06-2021,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=06-2021,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-72-month-06-2021,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=72&&month=06-2021,,,
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2271,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2271,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2247,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2247,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-month-05-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=05-2020,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-48-month-05-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=48&&month=05-2020,,,rce
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2247,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2247,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2219,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2219,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2219,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2219,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2200,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2200,,,
+vulnlab,https-www-vulnerability-lab-com-show-php-month-04-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=04-2020,,,overflow
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-72-month-04-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=72&&month=04-2020,,,overflow
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2200,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2200,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2221,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2221,,,
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2221,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2221,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2224,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2224,,,dos
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-48-month-04-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=48&&month=04-2020,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2224,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2224,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2319,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2319,,,xss
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2319,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2319,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2318,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2318,,,dos
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2318,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2318,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2310,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2310,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-month-12-2021,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=12-2021,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-72-month-12-2021,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=72&&month=12-2021,,,rce
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2310,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2310,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2260,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2260,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-month-06-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=06-2020,,,xss
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-72-month-06-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=72&&month=06-2020,,,sqli
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2260,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2260,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-user-metacom,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?user=metacom,,,overflow
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2248,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/download_content.php?id=2248,,,overflow
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-72-month-05-2020,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=72&&month=05-2020,,,rce
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2248,Vulnerability-Lab ieraksts,https://www.vulnerability-lab.com/get_content.php?id=2248,,,rce
+vulnlab,https-www-vulnerability-lab-com-show-php-user-Milad-Karimi,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?user=Milad Karimi,,,rce
+vulnlab,https-www-vulnerability-lab-com-download-content-php-id-2183,Dabman & Imerpial - HTML AutoPwner,https://www.vulnerability-lab.com/download_content.php?id=2183,,"CVE-2019-13473,CVE-2019-13474",
+vulnlab,https-www-vulnerability-lab-com-show-php-month-09-2019,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?month=09-2019,,,
+vulnlab,https-www-vulnerability-lab-com-show-php-sev-96-month-09-2019,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?sev=96&&month=09-2019,,,
+vulnlab,https-www-vulnerability-lab-com-get-content-php-id-2183,Dabman & Imerpial - HTML AutoPwner,https://www.vulnerability-lab.com/get_content.php?id=2183,,"CVE-2019-13473,CVE-2019-13474",rce
+vulnlab,https-www-vulnerability-lab-com-show-php-user-Benjamin-K-M,VULNERABILITY LAB - SECURITY VULNERABILITY RESEARCH LABORATORY,https://www.vulnerability-lab.com/show.php?user=Benjamin K.M.,,,priv_esc
